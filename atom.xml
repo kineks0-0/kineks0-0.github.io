@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kineks0-0.github.io/"/>
-  <updated>2019-08-30T02:39:14.731Z</updated>
+  <updated>2019-08-30T01:21:54.059Z</updated>
   <id>https://kineks0-0.github.io/</id>
   
   <author>
@@ -17,19 +17,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Pornhub-v5.1-汉化版</title>
-    <link href="https://kineks0-0.github.io/post/Pornhub%E6%B1%89%E5%8C%96%E7%89%88/"/>
-    <id>https://kineks0-0.github.io/post/Pornhub汉化版/</id>
-    <published>2019-08-30T02:41:24.931Z</published>
-    <updated>2019-08-30T02:39:14.731Z</updated>
+    <title>Hello World</title>
+    <link href="https://kineks0-0.github.io/post/B/Hello-World/"/>
+    <id>https://kineks0-0.github.io/post/B/Hello-World/</id>
+    <published>2019-08-30T02:46:36.901Z</published>
+    <updated>2019-08-30T01:21:54.059Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="前言">前言<a href="post/Pornhub汉化版#前言"></a></h1><p>因为Pornhub一直没支持官方中文,<br><br>再加上找不到最新版的汉化版本.<br><br>于是就自己去动手汉化了.<br><br><br><br><br></p><h1 id="Pronhub-v5-1-1307-汉化版">Pronhub_v5.1_1307_汉化版<a href="post/Pornhub汉化版#Pronhub-v5-1-1307-汉化版"></a></h1><p>基于官网最新版汉化 [截止2019.7.1时]<br>下载链接 : <a href="https://www.lanzous.com/b791761" target="_blank" rel="noopener">传送门</a></p><p><del>[别问是怎么截的]</del><br><br></p><h1 id="App截图">App截图<a href="post/Pornhub汉化版#App截图"></a></h1><p><del>截图待会再重新上传</del></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Hello-World">Hello World<a href="post/B/Hello-World#Hello-World"></a></h1><p>Hello World,Hexo.</p><figure class="highlight plain"><div><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">System.out.println(&quot;Hello WWorld&quot;);//java</span><br></pre></td></tr></table></div></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;前言&quot;&gt;前言&lt;a href=&quot;post/Pornhub汉化版#前言&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;因为Pornhub一直没支持官方中文,&lt;br&gt;&lt;br&gt;再加上找不到最新版的汉化版本.&lt;br&gt;&lt;br&gt;于是就自己去动手汉化了.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p
+        &lt;h1 id=&quot;Hello-World&quot;&gt;Hello World&lt;a href=&quot;post/B/Hello-World#Hello-World&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;Hello World,Hexo.&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="Hello World" scheme="https://kineks0-0.github.io/tags/Hello-World/"/>
+    
+      <category term="Test Tag" scheme="https://kineks0-0.github.io/tags/Test-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pornhub-v5.1-汉化版</title>
+    <link href="https://kineks0-0.github.io/post/B/Pornhub%E6%B1%89%E5%8C%96%E7%89%88/"/>
+    <id>https://kineks0-0.github.io/post/B/Pornhub汉化版/</id>
+    <published>2019-08-30T02:46:36.901Z</published>
+    <updated>2019-08-30T02:39:14.731Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言">前言<a href="post/B/Pornhub汉化版#前言"></a></h1><p>因为Pornhub一直没支持官方中文,<br><br>再加上找不到最新版的汉化版本.<br><br>于是就自己去动手汉化了.<br><br><br><br><br></p><h1 id="Pronhub-v5-1-1307-汉化版">Pronhub_v5.1_1307_汉化版<a href="post/B/Pornhub汉化版#Pronhub-v5-1-1307-汉化版"></a></h1><p>基于官网最新版汉化 [截止2019.7.1时]<br>下载链接 : <a href="https://www.lanzous.com/b791761" target="_blank" rel="noopener">传送门</a></p><p><del>[别问是怎么截的]</del><br><br></p><h1 id="App截图">App截图<a href="post/B/Pornhub汉化版#App截图"></a></h1><p><del>截图待会再重新上传</del></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;前言&quot;&gt;前言&lt;a href=&quot;post/B/Pornhub汉化版#前言&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;因为Pornhub一直没支持官方中文,&lt;br&gt;&lt;br&gt;再加上找不到最新版的汉化版本.&lt;br&gt;&lt;br&gt;于是就自己去动手汉化了.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;
       
     
     </summary>
@@ -46,101 +72,20 @@
   </entry>
   
   <entry>
-    <title>K/Pornhub汉化版</title>
-    <link href="https://kineks0-0.github.io/post/K/Pornhub%E6%B1%89%E5%8C%96%E7%89%88/"/>
-    <id>https://kineks0-0.github.io/post/K/Pornhub汉化版/</id>
-    <published>2019-08-30T02:40:09.121Z</published>
-    <updated>2019-08-30T02:40:09.121Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html><head><meta name="generator" content="Hexo 3.9.0"><title>Pornhub汉化版</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">body {    font-family: Helvetica, arial, freesans, clean, sans-serif;    font-size: 14px;    line-height: 1.6;    background-color: #fff;    color: #333;    padding: 20px;    max-width: 960px;    margin: 0 auto;}li p {    overflow: visible}a {    color: #3194d0;    text-decoration: none;}a:hover {    color: #3194d0;    text-decoration: underline}a.active,a:active,a:focus {    color: #3194d0}a.disabled,a.disabled.active,a.disabled:active,a.disabled:focus,a.disabled:hover,a[disabled],a[disabled].active,a[disabled]:active,a[disabled]:focus,a[disabled]:hover {    cursor: not-allowed;    color: #f5f5f5}ol,p,ul {    word-break: break-word!important;    word-break: break-all}hr {    clear: both;    margin: 15px 0;    height: 0px;    overflow: hidden;    border: none;    background: transparent;    border-bottom: 1px solid #ccc;    padding: 0;}h1,h2,h3,h4,h5,h6 {    margin: 0 0 15px;    font-weight: 700;    color: #2f2f2f;    line-height: 1.7;    text-rendering: optimizelegibility}h1 {    font-size: 26px}h2 {    font-size: 24px}h3 {    font-size: 22px}h4 {    font-size: 20px}h5 {    font-size: 18px}h6 {    font-size: 16px}img {    max-width: 100%}blockquote {    border: 0;    margin: 5px;    padding-left: 15px;    padding-right: 10px;    padding-bottom: 1px;    padding-top: 1px;    background-color: #f7f7f7;    border-left: 6px solid #b4b4b4;    word-break: break-word!important;    word-break: break-all;    font-size: 14px;    font-weight: 400;    line-height: 30px}blockquote p {    font-size: 14px;    font-weight: 400;    line-height: 1.7}blockquote .image-package {    width: auto;    margin-left: 0}ol,ul {    padding: 0;    margin: -5px 0 20px 20px}ol li,ul li {    line-height: 30px}ol li ol,ol li ul,ul li ol,ul li ul {    margin-top: 15px}ol .image-package,ul .image-package {    width: auto!important;    margin-left: 0!important}pre {    background-color: #f7f7f7;    margin-bottom: 20px;    padding: 10px;    font-size: 13px;    word-wrap: normal;    word-break: break-word!important;    word-break: break-all;    white-space: pre;    overflow: auto;    border-radius: 4px}pre code {    padding: 0;    background-color: transparent;    white-space: pre}code {    padding: 2px 4px;    background-color: #f6f6f6;    border: none;    font-size: 12px;    white-space: pre-wrap}table {    margin-bottom: 20px;    border: 1px solid #ddd;    border-collapse: collapse;    border-left: none;    word-break: normal}table tr:nth-of-type(2n) {    background-color: hsla(0,0%,71%,.1)}table thead th {    vertical-align: middle;    text-align: inherit}table td,table th {    padding: 8px;    border: 1px solid #ddd;    line-height: 20px;    vertical-align: middle}table th {    font-weight: 700}table .image-package {    width: auto;    margin-left: 0}.task-list-item {list-style-type: none}.task-list-item label {font-weight: 400}.task-list-item.enabled label {cursor: pointer}.task-list-item+.task-list-item {margin-top: 3px}.task-list-item .handle {display: none}.task-list-item-checkbox {margin: 0 1em 0.25em -1.6em;vertical-align: middle}/* * atom-one-light.css */.hljs {  display: block;  overflow-x: auto;  padding: 0.5em;  color: #383a42;}.hljs-comment,.hljs-quote {  color: #a0a1a7;  font-style: italic;}.hljs-doctag,.hljs-keyword,.hljs-formula {  color: #a626a4;}.hljs-section,.hljs-name,.hljs-selector-tag,.hljs-deletion,.hljs-subst {  color: #e45649;}.hljs-literal {  color: #0184bb;}.hljs-string,.hljs-regexp,.hljs-addition,.hljs-attribute,.hljs-meta-string {  color: #50a14f;}.hljs-built_in,.hljs-class .hljs-title {  color: #c18401;}.hljs-attr,.hljs-variable,.hljs-template-variable,.hljs-type,.hljs-selector-class,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-number {  color: #986801;}.hljs-symbol,.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-title {  color: #4078f2;}.hljs-emphasis {  font-style: italic;}.hljs-strong {  font-weight: bold;}.hljs-link {  text-decoration: underline;}</style><base href="file:///storage/emulated/0/Kineks0-0.MarkDown.md/"><script defer src="file:///android_asset/anchor.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight-init.js" type="text/javascript"></script></head><body><!-- From: M Note --><!-- Author: HJQ --><!-- email: 880634@qq.com --><hr><p>title: Pornhub-v5.1-汉化版</p><p>date:</p><p>updated:</p><h1 id="comments:">comments:<p>tags:</p><ul><li><p>杂</p></li><li><p>闲聊</p></li><li><p>汉化</p></li><li><p>Pornhub</p></li></ul><h1 id="categories:">categories:<h1 id="layout:">layout:<h1 id="permalink:">permalink:<h1 id="当前文章是否显示目录导航，用于覆盖全局设置">当前文章是否显示目录导航，用于覆盖全局设置<h1 id="toc: false">toc: false<h1 id="当前文章是否显示打赏，用于覆盖全局设置">当前文章是否显示打赏，用于覆盖全局设置<p>reward: false</p><h1 id="当前文章是否显示版权声明信息，用于覆盖全局设置">当前文章是否显示版权声明信息，用于覆盖全局设置<h1 id="支持设置为对象，同 /theme-inside/docs/content-addons#copyright。">支持设置为对象，同 /theme-inside/docs/content-addons#copyright。<p>copyright: true</p><h1 id="设置缩略图">设置缩略图<h1 id="thumbnail: landscape.jpg">thumbnail: landscape.jpg<h1 id="设置缩略图底色">设置缩略图底色<h1 id="color: '#111'">color: &apos;#111&apos;<h1 id="可联合设置，如：">可联合设置，如：<p>thumbnail: 'https://s2.ax1x.com/2019/08/30/mO57ng.png #111'</p><h1 id="post 列表置顶">post 列表置顶<h1 id="优先按 top 值排序（缺省值为 0），其次按 date">优先按 top 值排序（缺省值为 0），其次按 date<h1 id="top: 1">top: 1<h1 id="在 page 标题下方显示信息，目前只会显示 date。">在 page 标题下方显示信息，目前只会显示 date。<p>meta: true</p><hr><h1 id="前言">前言因为Pornhub一直没支持官方中文,<br>再加上找不到最新版的汉化版本.<br>于是就自己去动手汉化了.<br><br><br><h1 id="Pronhub_v5.1_1307_汉化版">Pronhub_v5.1_1307_汉化版<p>基于官网最新版汉化 [截止2019.7.1时]</p><p>下载链接 : <a href="https://www.lanzous.com/b791761" target="_blank" rel="noopener">传送门</a></p><p><del>[别问是怎么截的]</del></p><br><h1 id="App截图">App截图<p><del>截图待会再重新上传</del></p></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></body></html>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;&lt;meta name=&quot;generator&quot; content=&quot;Hexo 3.9.0&quot;&gt;
-&lt;title&gt;Pornhub汉化版&lt;/title&gt;
-&lt;meta http-equiv=&quot;Content-Type&quot; content=
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>K/Pronhub汉化版</title>
-    <link href="https://kineks0-0.github.io/post/K/Pronhub%E6%B1%89%E5%8C%96%E7%89%88/"/>
-    <id>https://kineks0-0.github.io/post/K/Pronhub汉化版/</id>
-    <published>2019-08-30T02:30:11.491Z</published>
-    <updated>2019-08-30T02:30:11.491Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html><head><meta name="generator" content="Hexo 3.9.0"><title>Pronhub汉化版</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">body {    font-family: Helvetica, arial, freesans, clean, sans-serif;    font-size: 14px;    line-height: 1.6;    background-color: #fff;    color: #333;    padding: 20px;    max-width: 960px;    margin: 0 auto;}li p {    overflow: visible}a {    color: #3194d0;    text-decoration: none;}a:hover {    color: #3194d0;    text-decoration: underline}a.active,a:active,a:focus {    color: #3194d0}a.disabled,a.disabled.active,a.disabled:active,a.disabled:focus,a.disabled:hover,a[disabled],a[disabled].active,a[disabled]:active,a[disabled]:focus,a[disabled]:hover {    cursor: not-allowed;    color: #f5f5f5}ol,p,ul {    word-break: break-word!important;    word-break: break-all}hr {    clear: both;    margin: 15px 0;    height: 0px;    overflow: hidden;    border: none;    background: transparent;    border-bottom: 1px solid #ccc;    padding: 0;}h1,h2,h3,h4,h5,h6 {    margin: 0 0 15px;    font-weight: 700;    color: #2f2f2f;    line-height: 1.7;    text-rendering: optimizelegibility}h1 {    font-size: 26px}h2 {    font-size: 24px}h3 {    font-size: 22px}h4 {    font-size: 20px}h5 {    font-size: 18px}h6 {    font-size: 16px}img {    max-width: 100%}blockquote {    border: 0;    margin: 5px;    padding-left: 15px;    padding-right: 10px;    padding-bottom: 1px;    padding-top: 1px;    background-color: #f7f7f7;    border-left: 6px solid #b4b4b4;    word-break: break-word!important;    word-break: break-all;    font-size: 14px;    font-weight: 400;    line-height: 30px}blockquote p {    font-size: 14px;    font-weight: 400;    line-height: 1.7}blockquote .image-package {    width: auto;    margin-left: 0}ol,ul {    padding: 0;    margin: -5px 0 20px 20px}ol li,ul li {    line-height: 30px}ol li ol,ol li ul,ul li ol,ul li ul {    margin-top: 15px}ol .image-package,ul .image-package {    width: auto!important;    margin-left: 0!important}pre {    background-color: #f7f7f7;    margin-bottom: 20px;    padding: 10px;    font-size: 13px;    word-wrap: normal;    word-break: break-word!important;    word-break: break-all;    white-space: pre;    overflow: auto;    border-radius: 4px}pre code {    padding: 0;    background-color: transparent;    white-space: pre}code {    padding: 2px 4px;    background-color: #f6f6f6;    border: none;    font-size: 12px;    white-space: pre-wrap}table {    margin-bottom: 20px;    border: 1px solid #ddd;    border-collapse: collapse;    border-left: none;    word-break: normal}table tr:nth-of-type(2n) {    background-color: hsla(0,0%,71%,.1)}table thead th {    vertical-align: middle;    text-align: inherit}table td,table th {    padding: 8px;    border: 1px solid #ddd;    line-height: 20px;    vertical-align: middle}table th {    font-weight: 700}table .image-package {    width: auto;    margin-left: 0}.task-list-item {list-style-type: none}.task-list-item label {font-weight: 400}.task-list-item.enabled label {cursor: pointer}.task-list-item+.task-list-item {margin-top: 3px}.task-list-item .handle {display: none}.task-list-item-checkbox {margin: 0 1em 0.25em -1.6em;vertical-align: middle}/* * atom-one-light.css */.hljs {  display: block;  overflow-x: auto;  padding: 0.5em;  color: #383a42;}.hljs-comment,.hljs-quote {  color: #a0a1a7;  font-style: italic;}.hljs-doctag,.hljs-keyword,.hljs-formula {  color: #a626a4;}.hljs-section,.hljs-name,.hljs-selector-tag,.hljs-deletion,.hljs-subst {  color: #e45649;}.hljs-literal {  color: #0184bb;}.hljs-string,.hljs-regexp,.hljs-addition,.hljs-attribute,.hljs-meta-string {  color: #50a14f;}.hljs-built_in,.hljs-class .hljs-title {  color: #c18401;}.hljs-attr,.hljs-variable,.hljs-template-variable,.hljs-type,.hljs-selector-class,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-number {  color: #986801;}.hljs-symbol,.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-title {  color: #4078f2;}.hljs-emphasis {  font-style: italic;}.hljs-strong {  font-weight: bold;}.hljs-link {  text-decoration: underline;}</style><base href="file:///storage/emulated/0/Kineks0-0.MarkDown.md/"><script defer src="file:///android_asset/anchor.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight-init.js" type="text/javascript"></script></head><body><!-- From: M Note --><!-- Author: HJQ --><!-- email: 880634@qq.com --><hr><p>title: Pornhub-v5.1-汉化版</p><p>date:</p><p>updated:</p><h1 id="comments:">comments:<p>tags:</p><ul><li><p>杂</p></li><li><p>闲聊</p></li><li><p>汉化</p></li><li><p>Pornhub</p></li></ul><h1 id="categories:">categories:<h1 id="layout:">layout:<h1 id="permalink:">permalink:<h1 id="当前文章是否显示目录导航，用于覆盖全局设置">当前文章是否显示目录导航，用于覆盖全局设置<h1 id="toc: false">toc: false<h1 id="当前文章是否显示打赏，用于覆盖全局设置">当前文章是否显示打赏，用于覆盖全局设置<p>reward: false</p><h1 id="当前文章是否显示版权声明信息，用于覆盖全局设置">当前文章是否显示版权声明信息，用于覆盖全局设置<h1 id="支持设置为对象，同 /theme-inside/docs/content-addons#copyright。">支持设置为对象，同 /theme-inside/docs/content-addons#copyright。<p>copyright: true</p><h1 id="设置缩略图">设置缩略图<h1 id="thumbnail: landscape.jpg">thumbnail: landscape.jpg<h1 id="设置缩略图底色">设置缩略图底色<h1 id="color: '#111'">color: &apos;#111&apos;<h1 id="可联合设置，如：">可联合设置，如：<h1 id="thumbnail: 'https://s2.ax1x.com/2019/08/30/mOa5lV.jpg #111'">thumbnail: &apos;https://s2.ax1x.com/2019/08/30/mOa5lV.jpg #111&apos;<h1 id="post 列表置顶">post 列表置顶<h1 id="优先按 top 值排序（缺省值为 0），其次按 date">优先按 top 值排序（缺省值为 0），其次按 date<h1 id="top: 1">top: 1<h1 id="在 page 标题下方显示信息，目前只会显示 date。">在 page 标题下方显示信息，目前只会显示 date。<p>meta: true</p><hr><h1 id="前言">前言因为Pornhub一直没支持官方中文,<br>再加上找不到最新版的汉化版本.<br>于是就自己去动手汉化了.<br><br><br><h1 id="Pronhub_v5.1_1307_汉化版">Pronhub_v5.1_1307_汉化版<p>基于官网最新版汉化 [截止2019.7.1时]</p><p>下载链接 : <a href="https://www.lanzous.com/b791761" target="_blank" rel="noopener">传送门</a></p><p><del>[别问是怎么截的]</del></p></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></body></html>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;&lt;meta name=&quot;generator&quot; content=&quot;Hexo 3.9.0&quot;&gt;
-&lt;title&gt;Pronhub汉化版&lt;/title&gt;
-&lt;meta http-equiv=&quot;Content-Type&quot; content=
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Welcome</title>
-    <link href="https://kineks0-0.github.io/post/K/Welcome/"/>
-    <id>https://kineks0-0.github.io/post/K/Welcome/</id>
-    <published>2019-08-30T02:20:26.751Z</published>
-    <updated>2019-08-30T02:20:26.751Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="欢迎">欢迎<a href="post/K/Welcome#欢迎"></a></h1><p>这是我的博客,不定时更新.</p><h1 id="封面来源">封面来源<a href="post/K/Welcome#封面来源"></a></h1><p>画师 : 酒一</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;欢迎&quot;&gt;欢迎&lt;a href=&quot;post/K/Welcome#欢迎&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;这是我的博客,不定时更新.&lt;/p&gt;
-&lt;h1 id=&quot;封面来源&quot;&gt;封面来源&lt;a href=&quot;post/K/Welcome#封面来源&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;画师 : 酒一&lt;
-      
-    
-    </summary>
-    
-    
-      <category term="杂" scheme="https://kineks0-0.github.io/tags/%E6%9D%82/"/>
-    
-      <category term="闲聊" scheme="https://kineks0-0.github.io/tags/%E9%97%B2%E8%81%8A/"/>
-    
-      <category term="欢迎" scheme="https://kineks0-0.github.io/tags/%E6%AC%A2%E8%BF%8E/"/>
-    
-      <category term="Welcome" scheme="https://kineks0-0.github.io/tags/Welcome/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Welcome</title>
-    <link href="https://kineks0-0.github.io/post/Welcome/"/>
-    <id>https://kineks0-0.github.io/post/Welcome/</id>
-    <published>2019-08-30T02:17:44.341Z</published>
+    <link href="https://kineks0-0.github.io/post/B/Welcome/"/>
+    <id>https://kineks0-0.github.io/post/B/Welcome/</id>
+    <published>2019-08-30T02:46:36.901Z</published>
     <updated>2019-08-30T02:17:44.341Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="欢迎">欢迎<a href="post/Welcome#欢迎"></a></h1><p>这是我的博客,不定时更新.</p><h1 id="封面来源">封面来源<a href="post/Welcome#封面来源"></a></h1><p>画师 : 酒一</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="欢迎">欢迎<a href="post/B/Welcome#欢迎"></a></h1><p>这是我的博客,不定时更新.</p><h1 id="封面来源">封面来源<a href="post/B/Welcome#封面来源"></a></h1><p>画师 : 酒一</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;欢迎&quot;&gt;欢迎&lt;a href=&quot;post/Welcome#欢迎&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;这是我的博客,不定时更新.&lt;/p&gt;
-&lt;h1 id=&quot;封面来源&quot;&gt;封面来源&lt;a href=&quot;post/Welcome#封面来源&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;画师 : 酒一&lt;/p&gt;
-
+        &lt;h1 id=&quot;欢迎&quot;&gt;欢迎&lt;a href=&quot;post/B/Welcome#欢迎&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;这是我的博客,不定时更新.&lt;/p&gt;
+&lt;h1 id=&quot;封面来源&quot;&gt;封面来源&lt;a href=&quot;post/B/Welcome#封面来源&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;画师 : 酒一&lt;
       
     
     </summary>
@@ -158,19 +103,19 @@
   
   <entry>
     <title>博客叒叒叒换回来了</title>
-    <link href="https://kineks0-0.github.io/post/%E5%8D%9A%E5%AE%A2%E5%8F%92%E5%8F%92%E5%8F%92%E6%8D%A2%E5%9B%9E%E6%9D%A5%E4%BA%86/"/>
-    <id>https://kineks0-0.github.io/post/博客叒叒叒换回来了/</id>
-    <published>2019-08-30T02:17:04.141Z</published>
+    <link href="https://kineks0-0.github.io/post/B/%E5%8D%9A%E5%AE%A2%E5%8F%92%E5%8F%92%E5%8F%92%E6%8D%A2%E5%9B%9E%E6%9D%A5%E4%BA%86/"/>
+    <id>https://kineks0-0.github.io/post/B/博客叒叒叒换回来了/</id>
+    <published>2019-08-30T02:46:36.901Z</published>
     <updated>2019-08-30T02:17:04.141Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="博客叒叒叒换回来了">博客叒叒叒换回来了<a href="post/博客叒叒叒换回来了#博客叒叒叒换回来了"></a></h1><p>因为腾讯云莫名其妙的把主题文件和环境都删除了,<br>所以现在又用回 Android+Github 的组合了.</p><p>至于以前写的就随缘恢复回来吧,反正也不多.</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="博客叒叒叒换回来了">博客叒叒叒换回来了<a href="post/B/博客叒叒叒换回来了#博客叒叒叒换回来了"></a></h1><p>因为腾讯云莫名其妙的把主题文件和环境都删除了,<br>所以现在又用回 Android+Github 的组合了.</p><p>至于以前写的就随缘恢复回来吧,反正也不多.</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;博客叒叒叒换回来了&quot;&gt;博客叒叒叒换回来了&lt;a href=&quot;post/博客叒叒叒换回来了#博客叒叒叒换回来了&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;因为腾讯云莫名其妙的把主题文件和环境都删除了,&lt;br&gt;所以现在又用回 Android+Github 的组合了.&lt;/p&gt;
-&lt;p&gt;至于
+        &lt;h1 id=&quot;博客叒叒叒换回来了&quot;&gt;博客叒叒叒换回来了&lt;a href=&quot;post/B/博客叒叒叒换回来了#博客叒叒叒换回来了&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;因为腾讯云莫名其妙的把主题文件和环境都删除了,&lt;br&gt;所以现在又用回 Android+Github 的组合了.&lt;/p&gt;
+&lt;p&gt;
       
     
     </summary>
@@ -179,247 +124,6 @@
       <category term="杂" scheme="https://kineks0-0.github.io/tags/%E6%9D%82/"/>
     
       <category term="闲聊" scheme="https://kineks0-0.github.io/tags/%E9%97%B2%E8%81%8A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://kineks0-0.github.io/post/Hello-World/"/>
-    <id>https://kineks0-0.github.io/post/Hello-World/</id>
-    <published>2019-08-30T01:21:54.059Z</published>
-    <updated>2019-08-30T01:21:54.059Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Hello-World">Hello World<a href="post/Hello-World#Hello-World"></a></h1><p>Hello World,Hexo.</p><figure class="highlight plain"><div><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">System.out.println(&quot;Hello WWorld&quot;);//java</span><br></pre></td></tr></table></div></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;Hello-World&quot;&gt;Hello World&lt;a href=&quot;post/Hello-World#Hello-World&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;Hello World,Hexo.&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;di
-      
-    
-    </summary>
-    
-    
-      <category term="Hello World" scheme="https://kineks0-0.github.io/tags/Hello-World/"/>
-    
-      <category term="Test Tag" scheme="https://kineks0-0.github.io/tags/Test-Tag/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>K/博客叒叒叒换回来了</title>
-    <link href="https://kineks0-0.github.io/post/K/%E5%8D%9A%E5%AE%A2%E5%8F%92%E5%8F%92%E5%8F%92%E6%8D%A2%E5%9B%9E%E6%9D%A5%E4%BA%86/"/>
-    <id>https://kineks0-0.github.io/post/K/博客叒叒叒换回来了/</id>
-    <published>2019-08-29T23:17:54.843Z</published>
-    <updated>2019-08-29T23:17:54.843Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html><head><meta name="generator" content="Hexo 3.9.0"><title>博客叒叒叒换回来了</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">body {    font-family: Helvetica, arial, freesans, clean, sans-serif;    font-size: 14px;    line-height: 1.6;    background-color: #fff;    color: #333;    padding: 20px;    max-width: 960px;    margin: 0 auto;}li p {    overflow: visible}a {    color: #3194d0;    text-decoration: none;}a:hover {    color: #3194d0;    text-decoration: underline}a.active,a:active,a:focus {    color: #3194d0}a.disabled,a.disabled.active,a.disabled:active,a.disabled:focus,a.disabled:hover,a[disabled],a[disabled].active,a[disabled]:active,a[disabled]:focus,a[disabled]:hover {    cursor: not-allowed;    color: #f5f5f5}ol,p,ul {    word-break: break-word!important;    word-break: break-all}hr {    clear: both;    margin: 15px 0;    height: 0px;    overflow: hidden;    border: none;    background: transparent;    border-bottom: 1px solid #ccc;    padding: 0;}h1,h2,h3,h4,h5,h6 {    margin: 0 0 15px;    font-weight: 700;    color: #2f2f2f;    line-height: 1.7;    text-rendering: optimizelegibility}h1 {    font-size: 26px}h2 {    font-size: 24px}h3 {    font-size: 22px}h4 {    font-size: 20px}h5 {    font-size: 18px}h6 {    font-size: 16px}img {    max-width: 100%}blockquote {    border: 0;    margin: 5px;    padding-left: 15px;    padding-right: 10px;    padding-bottom: 1px;    padding-top: 1px;    background-color: #f7f7f7;    border-left: 6px solid #b4b4b4;    word-break: break-word!important;    word-break: break-all;    font-size: 14px;    font-weight: 400;    line-height: 30px}blockquote p {    font-size: 14px;    font-weight: 400;    line-height: 1.7}blockquote .image-package {    width: auto;    margin-left: 0}ol,ul {    padding: 0;    margin: -5px 0 20px 20px}ol li,ul li {    line-height: 30px}ol li ol,ol li ul,ul li ol,ul li ul {    margin-top: 15px}ol .image-package,ul .image-package {    width: auto!important;    margin-left: 0!important}pre {    background-color: #f7f7f7;    margin-bottom: 20px;    padding: 10px;    font-size: 13px;    word-wrap: normal;    word-break: break-word!important;    word-break: break-all;    white-space: pre;    overflow: auto;    border-radius: 4px}pre code {    padding: 0;    background-color: transparent;    white-space: pre}code {    padding: 2px 4px;    background-color: #f6f6f6;    border: none;    font-size: 12px;    white-space: pre-wrap}table {    margin-bottom: 20px;    border: 1px solid #ddd;    border-collapse: collapse;    border-left: none;    word-break: normal}table tr:nth-of-type(2n) {    background-color: hsla(0,0%,71%,.1)}table thead th {    vertical-align: middle;    text-align: inherit}table td,table th {    padding: 8px;    border: 1px solid #ddd;    line-height: 20px;    vertical-align: middle}table th {    font-weight: 700}table .image-package {    width: auto;    margin-left: 0}.task-list-item {list-style-type: none}.task-list-item label {font-weight: 400}.task-list-item.enabled label {cursor: pointer}.task-list-item+.task-list-item {margin-top: 3px}.task-list-item .handle {display: none}.task-list-item-checkbox {margin: 0 1em 0.25em -1.6em;vertical-align: middle}/* * atom-one-light.css */.hljs {  display: block;  overflow-x: auto;  padding: 0.5em;  color: #383a42;}.hljs-comment,.hljs-quote {  color: #a0a1a7;  font-style: italic;}.hljs-doctag,.hljs-keyword,.hljs-formula {  color: #a626a4;}.hljs-section,.hljs-name,.hljs-selector-tag,.hljs-deletion,.hljs-subst {  color: #e45649;}.hljs-literal {  color: #0184bb;}.hljs-string,.hljs-regexp,.hljs-addition,.hljs-attribute,.hljs-meta-string {  color: #50a14f;}.hljs-built_in,.hljs-class .hljs-title {  color: #c18401;}.hljs-attr,.hljs-variable,.hljs-template-variable,.hljs-type,.hljs-selector-class,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-number {  color: #986801;}.hljs-symbol,.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-title {  color: #4078f2;}.hljs-emphasis {  font-style: italic;}.hljs-strong {  font-weight: bold;}.hljs-link {  text-decoration: underline;}</style><base href="file:///storage/emulated/0/Kineks0-0.MarkDown.md/"><script defer src="file:///android_asset/anchor.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight-init.js" type="text/javascript"></script></head><body><!-- From: M Note --><!-- Author: HJQ --><!-- email: 880634@qq.com --><hr><p>title: 博客叒叒叒换换回来了</p><p>date:</p><p>updated:</p><h1 id="comments:">comments:<p>tags:</p><ul><li><p>杂</p></li><li><p>闲聊</p></li></ul><h1 id="categories:">categories:<h1 id="layout:">layout:<h1 id="permalink:">permalink:<h1 id="当前文章是否显示目录导航，用于覆盖全局设置">当前文章是否显示目录导航，用于覆盖全局设置<h1 id="toc: false">toc: false<h1 id="当前文章是否显示打赏，用于覆盖全局设置">当前文章是否显示打赏，用于覆盖全局设置<h1 id="reward: false">reward: false<h1 id="当前文章是否显示版权声明信息，用于覆盖全局设置">当前文章是否显示版权声明信息，用于覆盖全局设置<h1 id="支持设置为对象，同 /theme-inside/docs/content-addons#copyright。">支持设置为对象，同 /theme-inside/docs/content-addons#copyright。<h1 id="copyright: false">copyright: false<h1 id="设置缩略图">设置缩略图<h1 id="thumbnail: landscape.jpg">thumbnail: landscape.jpg<h1 id="设置缩略图底色">设置缩略图底色<h1 id="color: '#111'">color: &apos;#111&apos;<h1 id="可联合设置，如：">可联合设置，如：<h1 id="thumbnail: 'landscape.jpg #111'">thumbnail: &apos;landscape.jpg #111&apos;<h1 id="post 列表置顶">post 列表置顶<h1 id="优先按 top 值排序（缺省值为 0），其次按 date">优先按 top 值排序（缺省值为 0），其次按 date<h1 id="top: 1">top: 1<h1 id="在 page 标题下方显示信息，目前只会显示 date。">在 page 标题下方显示信息，目前只会显示 date。<p>meta: true</p><hr><h1 id="博客叒叒叒换换回来了">博客叒叒叒换换回来了<pre><code>因为腾讯云莫名其妙的把主题文件和环境莫名删除了,</code></pre><p>所以现在又用回 Android+Github 的组合了.</p><p>至于以前写的就随缘吧,反正也不多.</p></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></h1></body></html>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;&lt;meta name=&quot;generator&quot; content=&quot;Hexo 3.9.0&quot;&gt;
-&lt;title&gt;博客叒叒叒换回来了&lt;/title&gt;
-&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>博客叒叒叒换换回来了</title>
-    <link href="https://kineks0-0.github.io/post/K/%E5%8D%9A%E5%AE%A2%E5%8F%92%E5%8F%92%E5%8F%92%E6%8D%A2%E5%9B%9E%E6%9D%A5%E4%BA%86/"/>
-    <id>https://kineks0-0.github.io/post/K/博客叒叒叒换回来了/</id>
-    <published>2019-08-29T23:17:50.253Z</published>
-    <updated>2019-08-29T23:17:50.253Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="博客叒叒叒换换回来了">博客叒叒叒换换回来了<a href="post/K/博客叒叒叒换回来了#博客叒叒叒换换回来了"></a></h1><pre><code>因为腾讯云莫名其妙的把主题文件和环境莫名删除了,</code></pre><p>所以现在又用回 Android+Github 的组合了.</p><p>至于以前写的就随缘吧,反正也不多.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;博客叒叒叒换换回来了&quot;&gt;博客叒叒叒换换回来了&lt;a href=&quot;post/K/博客叒叒叒换回来了#博客叒叒叒换换回来了&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;因为腾讯云莫名其妙的把主题文件和环境莫名删除了,&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;所以现在又用回 Andr
-      
-    
-    </summary>
-    
-    
-      <category term="杂" scheme="https://kineks0-0.github.io/tags/%E6%9D%82/"/>
-    
-      <category term="闲聊" scheme="https://kineks0-0.github.io/tags/%E9%97%B2%E8%81%8A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>K/Markdown语法</title>
-    <link href="https://kineks0-0.github.io/post/K/Markdown%E8%AF%AD%E6%B3%95/"/>
-    <id>https://kineks0-0.github.io/post/K/Markdown语法/</id>
-    <published>2019-08-29T20:36:26.543Z</published>
-    <updated>2019-08-29T20:36:26.543Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html><head><meta name="generator" content="Hexo 3.9.0"><title>Markdown语法</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">body {    font-family: Helvetica, arial, freesans, clean, sans-serif;    font-size: 14px;    line-height: 1.6;    background-color: #fff;    color: #333;    padding: 20px;    max-width: 960px;    margin: 0 auto;}li p {    overflow: visible}a {    color: #3194d0;    text-decoration: none;}a:hover {    color: #3194d0;    text-decoration: underline}a.active,a:active,a:focus {    color: #3194d0}a.disabled,a.disabled.active,a.disabled:active,a.disabled:focus,a.disabled:hover,a[disabled],a[disabled].active,a[disabled]:active,a[disabled]:focus,a[disabled]:hover {    cursor: not-allowed;    color: #f5f5f5}ol,p,ul {    word-break: break-word!important;    word-break: break-all}hr {    clear: both;    margin: 15px 0;    height: 0px;    overflow: hidden;    border: none;    background: transparent;    border-bottom: 1px solid #ccc;    padding: 0;}h1,h2,h3,h4,h5,h6 {    margin: 0 0 15px;    font-weight: 700;    color: #2f2f2f;    line-height: 1.7;    text-rendering: optimizelegibility}h1 {    font-size: 26px}h2 {    font-size: 24px}h3 {    font-size: 22px}h4 {    font-size: 20px}h5 {    font-size: 18px}h6 {    font-size: 16px}img {    max-width: 100%}blockquote {    border: 0;    margin: 5px;    padding-left: 15px;    padding-right: 10px;    padding-bottom: 1px;    padding-top: 1px;    background-color: #f7f7f7;    border-left: 6px solid #b4b4b4;    word-break: break-word!important;    word-break: break-all;    font-size: 14px;    font-weight: 400;    line-height: 30px}blockquote p {    font-size: 14px;    font-weight: 400;    line-height: 1.7}blockquote .image-package {    width: auto;    margin-left: 0}ol,ul {    padding: 0;    margin: -5px 0 20px 20px}ol li,ul li {    line-height: 30px}ol li ol,ol li ul,ul li ol,ul li ul {    margin-top: 15px}ol .image-package,ul .image-package {    width: auto!important;    margin-left: 0!important}pre {    background-color: #f7f7f7;    margin-bottom: 20px;    padding: 10px;    font-size: 13px;    word-wrap: normal;    word-break: break-word!important;    word-break: break-all;    white-space: pre;    overflow: auto;    border-radius: 4px}pre code {    padding: 0;    background-color: transparent;    white-space: pre}code {    padding: 2px 4px;    background-color: #f6f6f6;    border: none;    font-size: 12px;    white-space: pre-wrap}table {    margin-bottom: 20px;    border: 1px solid #ddd;    border-collapse: collapse;    border-left: none;    word-break: normal}table tr:nth-of-type(2n) {    background-color: hsla(0,0%,71%,.1)}table thead th {    vertical-align: middle;    text-align: inherit}table td,table th {    padding: 8px;    border: 1px solid #ddd;    line-height: 20px;    vertical-align: middle}table th {    font-weight: 700}table .image-package {    width: auto;    margin-left: 0}.task-list-item {list-style-type: none}.task-list-item label {font-weight: 400}.task-list-item.enabled label {cursor: pointer}.task-list-item+.task-list-item {margin-top: 3px}.task-list-item .handle {display: none}.task-list-item-checkbox {margin: 0 1em 0.25em -1.6em;vertical-align: middle}/* * atom-one-light.css */.hljs {  display: block;  overflow-x: auto;  padding: 0.5em;  color: #383a42;}.hljs-comment,.hljs-quote {  color: #a0a1a7;  font-style: italic;}.hljs-doctag,.hljs-keyword,.hljs-formula {  color: #a626a4;}.hljs-section,.hljs-name,.hljs-selector-tag,.hljs-deletion,.hljs-subst {  color: #e45649;}.hljs-literal {  color: #0184bb;}.hljs-string,.hljs-regexp,.hljs-addition,.hljs-attribute,.hljs-meta-string {  color: #50a14f;}.hljs-built_in,.hljs-class .hljs-title {  color: #c18401;}.hljs-attr,.hljs-variable,.hljs-template-variable,.hljs-type,.hljs-selector-class,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-number {  color: #986801;}.hljs-symbol,.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-title {  color: #4078f2;}.hljs-emphasis {  font-style: italic;}.hljs-strong {  font-weight: bold;}.hljs-link {  text-decoration: underline;}</style><base href="file:///storage/emulated/0/Kineks0-0.MarkDown.md/"><script defer src="file:///android_asset/anchor.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight-init.js" type="text/javascript"></script></head><body><!-- From: M Note --><!-- Author: HJQ --><!-- email: 880634@qq.com --><h1 id="一级标题">一级标题<h2 id="二级标题">二级标题<h3 id="三级标题">三级标题<h4 id="四级标题">四级标题<h5 id="五级标题">五级标题<h6 id="六级标题">六级标题<blockquote><p>一级引用</p><blockquote><p>二级引用</p><blockquote><p>三级引用</p></blockquote></blockquote></blockquote><ul><li><p>一级列表</p><ul><li><p>二级列表</p><ul><li><p>三级列表</p></li></ul></li></ul></li></ul><ol><li><p>有序列表</p><ol><li><p>有序子列表</p></li><li><p>有序子列表</p></li></ol></li><li><p>有序列表</p><ul><li><p>无序子列表</p></li><li><p>无序子列表</p></li></ul></li><p><li class="task-list-item"><input type="checkbox" disabled class="task-list-item-checkbox" checked>复选列表</li></p><ul><p><li class="task-list-item"><input type="checkbox" disabled class="task-list-item-checkbox" checked>已办事例</li></p><p><li class="task-list-item"><input type="checkbox" disabled class="task-list-item-checkbox">待办事例</li></p></ul></ol><pre><code>System.out.println(&quot;Markdown&quot;);</code></pre><p><code>重点文字</code></p><p><del>删除线</del></p><p><u>下划线</u></p><p><em><strong>粗斜体</strong></em></p><p><strong>粗体</strong></p><p><em>斜体</em></p><p><a href="https://www.baidu.com" target="_blank" rel="noopener">百度一下</a></p><p><img src="https://www.baidu.com/img/bd_logo.png" alt="百度Logo" title class="article-img"></p><p>这是个简单的表格</p><table><thead><tr><th>First Header</th><th>Second Header</th><th>Third Header</th></tr></thead><tbody><tr><td>Content Cell</td><td>Content Cell</td><td>Content Cell</td></tr></tbody><tbody><tr><td>Content Cell</td><td>Content Cell</td><td>Content Cell</td></tr></tbody></table><p>出于美观的考虑，可以把两端都包围起来</p><table><thead><tr><th>First Header</th><th>Second Header</th><th>Third Header</th></tr></thead><tbody><tr><td>Content Cell</td><td>Content Cell</td><td>Content Cell</td></tr></tbody><tbody><tr><td>Content Cell</td><td>Content Cell</td><td>Content Cell</td></tr></tbody></table><p>通过在标题分割行添加冒号<code>:</code>，你可以定义表格单元的对其格式：向左靠齐，居中和向右靠齐</p><table><thead><tr><th align="left">First Header</th><th align="center">Second Header</th><th align="right">Third Header</th></tr></thead><tbody><tr><td align="left">Left</td><td align="center">Center</td><td align="right">Right</td></tr></tbody><tbody><tr><td align="left">Left</td><td align="center">Center</td><td align="right">Right</td></tr></tbody></table><p>这是一个示例的表格使用案例</p><table><thead><tr><th align="left">名字</th><th align="center">年龄</th><th align="right">描述</th></tr></thead><tbody><tr><td align="left">张三</td><td align="center">十岁</td><td align="right"><strong>加粗的文字</strong></td></tr></tbody><tbody><tr><td align="left">王老五</td><td align="center">二十岁</td><td align="right"><a href="https://github.com/getActivity/Markdown" target="_blank" rel="noopener">支持添加链接</a></td></tr></tbody></table><p>支持外接键盘快捷键</p><table><thead><tr><th align="center">快捷键</th><th align="center">作用</th></tr></thead><tbody><tr><td align="center">F1</td><td align="center">帮助</td></tr></tbody><tbody><tr><td align="center">F6</td><td align="center">预览</td></tr></tbody><tbody><tr><td align="center">Insert</td><td align="center">插入</td></tr></tbody><tbody><tr><td align="center">Ctrl + Z</td><td align="center">撤销</td></tr></tbody><tbody><tr><td align="center">Ctrl + Y</td><td align="center">重做</td></tr></tbody><tbody><tr><td align="center">Ctrl + S</td><td align="center">保存</td></tr></tbody><tbody><tr><td align="center">Ctrl + H</td><td align="center">替换</td></tr></tbody></table><p><a onclick="javascript:scroller('一级标题', 500);">点击这里回到一级标题</a></p><hr><font face="微软雅黑" color="red" size="5">自定义字体样式、颜色、大小</font><hr><font color="#0000ff">也可以单独指定字体颜色</font><hr><p align="left">居左文本</p><p align="center">居中文本</p><p align="right">居右文本</p><hr>使用html标签<br>换行<hr></h6></h5></h4></h3></h2></h1></body></html>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;&lt;meta name=&quot;generator&quot; content=&quot;Hexo 3.9.0&quot;&gt;
-&lt;title&gt;Markdown语法&lt;/title&gt;
-&lt;meta http-equiv=&quot;Content-Type&quot; content=
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>K/彦_Config</title>
-    <link href="https://kineks0-0.github.io/post/K/%E5%BD%A6_Config/"/>
-    <id>https://kineks0-0.github.io/post/K/彦_Config/</id>
-    <published>2019-08-20T19:46:30.840Z</published>
-    <updated>2019-08-20T19:46:30.840Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="已2019Y08M15D-21D完成停用并更新">已2019Y08M15D-21D完成停用并更新<a href="post/K/彦_Config#已2019Y08M15D-21D完成停用并更新"></a></h4><h6 id="已完成对usersConfig-json更新">已完成对usersConfig.json更新<a href="post/K/彦_Config#已完成对usersConfig-json更新"></a></h6><br>    ###### **以下是对 "彦" 的用户配置**<figure class="highlight plain"><div><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line"> &quot;userConfigName&quot;:&quot;彦&quot;,</span><br><span class="line"> &quot;userConfigID&quot;:&quot;20190112+this.getID+1&quot;,</span><br><span class="line"> &quot;Language&quot;:&quot;zh-CN&quot;,</span><br><span class="line"> &quot;情感关系[单向认为]&quot;:&quot;朋友 &#123;L:Me/A002_曾经向对方倾诉过,</span><br><span class="line">  可能为知心,</span><br><span class="line">  %:85&#125;&quot;,</span><br><span class="line"> &quot;记忆数据[单向]&quot;:true,</span><br><span class="line"> &quot;是否异常&quot;:false,</span><br><span class="line"> &quot;经常交谈&quot;:false,</span><br><span class="line"> &quot;是否信任&quot;:true,</span><br><span class="line"> &quot;是否执行特殊类型事件&quot;:false,</span><br><span class="line"> &quot;是否保留情感&quot;:true,</span><br><span class="line"> &quot;是否保留上次&quot;:true,</span><br><span class="line"> &quot;是否清除可能导致错误的记忆&quot;:true,</span><br><span class="line"> &quot;在结束\&quot;人生\&quot;时推送通知&quot;:true,</span><br><span class="line"> &quot;长时间无互动仍保留该数据&quot;:true,</span><br><span class="line"></span><br><span class="line"> &quot;人格配置&quot;:</span><br><span class="line"> &#123;</span><br><span class="line">  &quot;屏蔽类型:%Love,Sex,*%#P087&quot;:true,</span><br><span class="line">  &quot;使用表情包&quot;:true,</span><br><span class="line">  &quot;主动倾诉&quot;:false,</span><br><span class="line">  &quot;主动分享&quot;:false,</span><br><span class="line">  &quot;主动交谈&quot;:false,</span><br><span class="line">  &quot;等待回应[主动]&quot;:false,</span><br><span class="line">  &quot;启用观察状态&quot;:true,</span><br><span class="line">  &quot;记忆交谈内容&quot;:true,</span><br><span class="line">  &quot;记忆名称图像&quot;:true,</span><br><span class="line">  &quot;尝试猜测,记忆喜爱偏好内容&quot;:true,</span><br><span class="line">  &quot;主动倾向认为对方所感兴趣的&quot;:true,</span><br><span class="line">  &quot;启用独立的语言表达方式&quot;:true,</span><br><span class="line">  &quot;删除独立的\&quot;■\&quot;&quot;:true,</span><br><span class="line">  &quot;停用后依旧保留该数据&quot;:true,</span><br><span class="line">  &quot;尝试分配独立的记忆分区&quot;:true,</span><br><span class="line">  &quot;尝试构建独立的类型&quot;:true</span><br><span class="line"> &#125;,</span><br><span class="line"></span><br><span class="line"> &quot;独立数据&quot;:</span><br><span class="line"> &#123;</span><br><span class="line">  &quot;独立配置数据#1&quot;:&quot;喜爱偏好:this.获取对方偏好内容的(),</span><br><span class="line">  \n屏蔽内容:this.获取对方不感兴趣的(),</span><br><span class="line">  this.获取对方感到厌恶的()&quot;,</span><br><span class="line">  &quot;独立数据#2&quot;:&quot;对方社交状态正常,</span><br><span class="line">  \n并不差我这一个\&quot;朋友\&quot;&quot;,</span><br><span class="line">  &quot;独立数据#3&quot;:&quot;对方可能已经有了恋人[根据观察动态]&quot;</span><br><span class="line"> &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></div></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h4 id=&quot;已2019Y08M15D-21D完成停用并更新&quot;&gt;已2019Y08M15D-21D完成停用并更新&lt;a href=&quot;post/K/彦_Config#已2019Y08M15D-21D完成停用并更新&quot;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h6 id=&quot;已完成对usersConfig-j
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>K/彦_Config</title>
-    <link href="https://kineks0-0.github.io/post/K/%E5%BD%A6_Config/"/>
-    <id>https://kineks0-0.github.io/post/K/彦_Config/</id>
-    <published>2019-08-20T19:46:03.860Z</published>
-    <updated>2019-08-20T19:46:03.860Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html><head><meta name="generator" content="Hexo 3.9.0"><title>彦_Config</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">body {    font-family: Helvetica, arial, freesans, clean, sans-serif;    font-size: 14px;    line-height: 1.6;    background-color: #fff;    color: #333;    padding: 20px;    max-width: 960px;    margin: 0 auto;}li p {    overflow: visible}a {    color: #3194d0;    text-decoration: none;}a:hover {    color: #3194d0;    text-decoration: underline}a.active,a:active,a:focus {    color: #3194d0}a.disabled,a.disabled.active,a.disabled:active,a.disabled:focus,a.disabled:hover,a[disabled],a[disabled].active,a[disabled]:active,a[disabled]:focus,a[disabled]:hover {    cursor: not-allowed;    color: #f5f5f5}ol,p,ul {    word-break: break-word!important;    word-break: break-all}hr {    clear: both;    margin: 15px 0;    height: 0px;    overflow: hidden;    border: none;    background: transparent;    border-bottom: 1px solid #ccc;    padding: 0;}h1,h2,h3,h4,h5,h6 {    margin: 0 0 15px;    font-weight: 700;    color: #2f2f2f;    line-height: 1.7;    text-rendering: optimizelegibility}h1 {    font-size: 26px}h2 {    font-size: 24px}h3 {    font-size: 22px}h4 {    font-size: 20px}h5 {    font-size: 18px}h6 {    font-size: 16px}img {    max-width: 100%}blockquote {    border: 0;    margin: 5px;    padding-left: 15px;    padding-right: 10px;    padding-bottom: 1px;    padding-top: 1px;    background-color: #f7f7f7;    border-left: 6px solid #b4b4b4;    word-break: break-word!important;    word-break: break-all;    font-size: 14px;    font-weight: 400;    line-height: 30px}blockquote p {    font-size: 14px;    font-weight: 400;    line-height: 1.7}blockquote .image-package {    width: auto;    margin-left: 0}ol,ul {    padding: 0;    margin: -5px 0 20px 20px}ol li,ul li {    line-height: 30px}ol li ol,ol li ul,ul li ol,ul li ul {    margin-top: 15px}ol .image-package,ul .image-package {    width: auto!important;    margin-left: 0!important}pre {    background-color: #f7f7f7;    margin-bottom: 20px;    padding: 10px;    font-size: 13px;    word-wrap: normal;    word-break: break-word!important;    word-break: break-all;    white-space: pre;    overflow: auto;    border-radius: 4px}pre code {    padding: 0;    background-color: transparent;    white-space: pre}code {    padding: 2px 4px;    background-color: #f6f6f6;    border: none;    font-size: 12px;    white-space: pre-wrap}table {    margin-bottom: 20px;    border: 1px solid #ddd;    border-collapse: collapse;    border-left: none;    word-break: normal}table tr:nth-of-type(2n) {    background-color: hsla(0,0%,71%,.1)}table thead th {    vertical-align: middle;    text-align: inherit}table td,table th {    padding: 8px;    border: 1px solid #ddd;    line-height: 20px;    vertical-align: middle}table th {    font-weight: 700}table .image-package {    width: auto;    margin-left: 0}.task-list-item {list-style-type: none}.task-list-item label {font-weight: 400}.task-list-item.enabled label {cursor: pointer}.task-list-item+.task-list-item {margin-top: 3px}.task-list-item .handle {display: none}.task-list-item-checkbox {margin: 0 1em 0.25em -1.6em;vertical-align: middle}/* * atom-one-light.css */.hljs {  display: block;  overflow-x: auto;  padding: 0.5em;  color: #383a42;}.hljs-comment,.hljs-quote {  color: #a0a1a7;  font-style: italic;}.hljs-doctag,.hljs-keyword,.hljs-formula {  color: #a626a4;}.hljs-section,.hljs-name,.hljs-selector-tag,.hljs-deletion,.hljs-subst {  color: #e45649;}.hljs-literal {  color: #0184bb;}.hljs-string,.hljs-regexp,.hljs-addition,.hljs-attribute,.hljs-meta-string {  color: #50a14f;}.hljs-built_in,.hljs-class .hljs-title {  color: #c18401;}.hljs-attr,.hljs-variable,.hljs-template-variable,.hljs-type,.hljs-selector-class,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-number {  color: #986801;}.hljs-symbol,.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-title {  color: #4078f2;}.hljs-emphasis {  font-style: italic;}.hljs-strong {  font-weight: bold;}.hljs-link {  text-decoration: underline;}</style><base href="file:///storage/emulated/0/Kineks0-0.MarkDown.md/"><script defer src="file:///android_asset/anchor.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight-init.js" type="text/javascript"></script></head><body><!-- From: M Note --><!-- Author: HJQ --><!-- email: 880634@qq.com --><h4 id="已2019Y08M15D-16D完成停用并更新">已2019Y08M15D-16D完成停用并更新<h6 id="已完成对usersConfig.json更新">已完成对usersConfig.json更新<br>    <h6 id="**以下是对 " 彦" 的用户配置**"><strong>以下是对 &quot;彦&quot; 的用户配置</strong><pre><code>{<br> &quot;userConfigName&quot;:&quot;彦&quot;,<br> &quot;userConfigID&quot;:&quot;20190112+this.getID+1&quot;,<br> &quot;Language&quot;:&quot;zh-CN&quot;,<br> &quot;情感关系[单向认为]&quot;:&quot;朋友 {L:Me/A002_曾经向对方倾诉过,<br>&nbsp;&nbsp;可能为知心,<br>&nbsp;&nbsp;%:85}&quot;,<br> &quot;记忆数据[单向]&quot;:true,<br> &quot;是否异常&quot;:false,<br> &quot;经常交谈&quot;:false,<br> &quot;是否信任&quot;:true,<br> &quot;是否执行特殊类型事件&quot;:false,<br> &quot;是否保留情感&quot;:true,<br> &quot;是否保留上次&quot;:true,<br> &quot;是否清除可能导致错误的记忆&quot;:true,<br> &quot;在结束\&quot;人生\&quot;时推送通知&quot;:true,<br> &quot;长时间无互动仍保留该数据&quot;:true,<br><br> &quot;人格配置&quot;:<br> {<br>&nbsp;&nbsp;&quot;屏蔽类型:%Love,Sex,*%#P087&quot;:true,<br>&nbsp;&nbsp;&quot;使用表情包&quot;:true,<br>&nbsp;&nbsp;&quot;主动倾诉&quot;:false,<br>&nbsp;&nbsp;&quot;主动分享&quot;:false,<br>&nbsp;&nbsp;&quot;主动交谈&quot;:false,<br>&nbsp;&nbsp;&quot;等待回应[主动]&quot;:false,<br>&nbsp;&nbsp;&quot;启用观察状态&quot;:true,<br>&nbsp;&nbsp;&quot;记忆交谈内容&quot;:true,<br>&nbsp;&nbsp;&quot;记忆名称图像&quot;:true,<br>&nbsp;&nbsp;&quot;尝试猜测,记忆喜爱偏好内容&quot;:true,<br>&nbsp;&nbsp;&quot;主动倾向认为对方所感兴趣的&quot;:true,<br>&nbsp;&nbsp;&quot;启用独立的语言表达方式&quot;:true,<br>&nbsp;&nbsp;&quot;删除独立的\&quot;■\&quot;&quot;:true,<br>&nbsp;&nbsp;&quot;停用后依旧保留该数据&quot;:true,<br>&nbsp;&nbsp;&quot;尝试分配独立的记忆分区&quot;:true,<br>&nbsp;&nbsp;&quot;尝试构建独立的类型&quot;:true<br> },<br><br> &quot;独立数据&quot;:<br> {<br>&nbsp;&nbsp;&quot;独立配置数据#1&quot;:&quot;喜爱偏好:this.获取对方偏好内容的(),<br>&nbsp;&nbsp;\n屏蔽内容:this.获取对方不感兴趣的(),<br>&nbsp;&nbsp;this.获取对方感到厌恶的()&quot;,<br>&nbsp;&nbsp;&quot;独立数据#2&quot;:&quot;对方社交状态正常,<br>&nbsp;&nbsp;\n并不差我这一个\&quot;朋友\&quot;&quot;,<br>&nbsp;&nbsp;&quot;独立数据#3&quot;:&quot;对方可能已经有了恋人[根据观察动态]&quot;<br> }<br>}</code></pre></h6></h6></h4></body></html>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;&lt;meta name=&quot;generator&quot; content=&quot;Hexo 3.9.0&quot;&gt;
-&lt;title&gt;彦_Config&lt;/title&gt;
-&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;t
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>K/咲夜_Config</title>
-    <link href="https://kineks0-0.github.io/post/K/%E5%92%B2%E5%A4%9C_Config/"/>
-    <id>https://kineks0-0.github.io/post/K/咲夜_Config/</id>
-    <published>2019-08-15T19:17:02.994Z</published>
-    <updated>2019-08-15T19:17:02.994Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html><head><meta name="generator" content="Hexo 3.9.0"><title>咲夜_Config</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">body {    font-family: Helvetica, arial, freesans, clean, sans-serif;    font-size: 14px;    line-height: 1.6;    background-color: #fff;    color: #333;    padding: 20px;    max-width: 960px;    margin: 0 auto;}li p {    overflow: visible}a {    color: #3194d0;    text-decoration: none;}a:hover {    color: #3194d0;    text-decoration: underline}a.active,a:active,a:focus {    color: #3194d0}a.disabled,a.disabled.active,a.disabled:active,a.disabled:focus,a.disabled:hover,a[disabled],a[disabled].active,a[disabled]:active,a[disabled]:focus,a[disabled]:hover {    cursor: not-allowed;    color: #f5f5f5}ol,p,ul {    word-break: break-word!important;    word-break: break-all}hr {    clear: both;    margin: 15px 0;    height: 0px;    overflow: hidden;    border: none;    background: transparent;    border-bottom: 1px solid #ccc;    padding: 0;}h1,h2,h3,h4,h5,h6 {    margin: 0 0 15px;    font-weight: 700;    color: #2f2f2f;    line-height: 1.7;    text-rendering: optimizelegibility}h1 {    font-size: 26px}h2 {    font-size: 24px}h3 {    font-size: 22px}h4 {    font-size: 20px}h5 {    font-size: 18px}h6 {    font-size: 16px}img {    max-width: 100%}blockquote {    border: 0;    margin: 5px;    padding-left: 15px;    padding-right: 10px;    padding-bottom: 1px;    padding-top: 1px;    background-color: #f7f7f7;    border-left: 6px solid #b4b4b4;    word-break: break-word!important;    word-break: break-all;    font-size: 14px;    font-weight: 400;    line-height: 30px}blockquote p {    font-size: 14px;    font-weight: 400;    line-height: 1.7}blockquote .image-package {    width: auto;    margin-left: 0}ol,ul {    padding: 0;    margin: -5px 0 20px 20px}ol li,ul li {    line-height: 30px}ol li ol,ol li ul,ul li ol,ul li ul {    margin-top: 15px}ol .image-package,ul .image-package {    width: auto!important;    margin-left: 0!important}pre {    background-color: #f7f7f7;    margin-bottom: 20px;    padding: 10px;    font-size: 13px;    word-wrap: normal;    word-break: break-word!important;    word-break: break-all;    white-space: pre;    overflow: auto;    border-radius: 4px}pre code {    padding: 0;    background-color: transparent;    white-space: pre}code {    padding: 2px 4px;    background-color: #f6f6f6;    border: none;    font-size: 12px;    white-space: pre-wrap}table {    margin-bottom: 20px;    border: 1px solid #ddd;    border-collapse: collapse;    border-left: none;    word-break: normal}table tr:nth-of-type(2n) {    background-color: hsla(0,0%,71%,.1)}table thead th {    vertical-align: middle;    text-align: inherit}table td,table th {    padding: 8px;    border: 1px solid #ddd;    line-height: 20px;    vertical-align: middle}table th {    font-weight: 700}table .image-package {    width: auto;    margin-left: 0}.task-list-item {list-style-type: none}.task-list-item label {font-weight: 400}.task-list-item.enabled label {cursor: pointer}.task-list-item+.task-list-item {margin-top: 3px}.task-list-item .handle {display: none}.task-list-item-checkbox {margin: 0 1em 0.25em -1.6em;vertical-align: middle}/* * atom-one-light.css */.hljs {  display: block;  overflow-x: auto;  padding: 0.5em;  color: #383a42;}.hljs-comment,.hljs-quote {  color: #a0a1a7;  font-style: italic;}.hljs-doctag,.hljs-keyword,.hljs-formula {  color: #a626a4;}.hljs-section,.hljs-name,.hljs-selector-tag,.hljs-deletion,.hljs-subst {  color: #e45649;}.hljs-literal {  color: #0184bb;}.hljs-string,.hljs-regexp,.hljs-addition,.hljs-attribute,.hljs-meta-string {  color: #50a14f;}.hljs-built_in,.hljs-class .hljs-title {  color: #c18401;}.hljs-attr,.hljs-variable,.hljs-template-variable,.hljs-type,.hljs-selector-class,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-number {  color: #986801;}.hljs-symbol,.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-title {  color: #4078f2;}.hljs-emphasis {  font-style: italic;}.hljs-strong {  font-weight: bold;}.hljs-link {  text-decoration: underline;}</style><base href="file:///storage/emulated/0/Kineks0-0.MarkDown.md/"><script defer src="file:///android_asset/anchor.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight-init.js" type="text/javascript"></script></head><body><!-- From: M Note --><!-- Author: HJQ --><!-- email: 880634@qq.com --><h4 id="已2019Y08M15D-16D完成停用并更新">已2019Y08M15D-16D完成停用并更新<h6 id="已完成对usersConfig.json更新">已完成对usersConfig.json更新<br>    <h6 id="**以下是对 " 咲夜" 的用户配置**"><strong>以下是对 &quot;咲夜&quot; 的用户配置</strong><pre><code>{<br> &quot;userName&quot;:&quot;咲夜/宵夜&quot;,<br> &quot;usersID&quot;:&quot;20190112+this.getID+1&quot;,<br> &quot;Language&quot;:&quot;zh-CN&quot;,<br> &quot;情感关系[单向认为]&quot;:&quot;朋友{类型:知心，百分比:85}&quot;,<br> &quot;记忆配置[单向]&quot;:true,<br> &quot;是否异常&quot;:false,<br> &quot;经常交谈&quot;:false,<br> &quot;是否信任&quot;:true,<br> &quot;是否执行S0190815089676类型事件&quot;:false,<br><br> &quot;人格配置&quot;:<br> {<br>&nbsp;&nbsp;&quot;独立配置数据#1&quot;:&quot;喜爱偏好:this.获取对方偏好内容的(),<br>&nbsp;&nbsp;\n屏蔽内容:this.获取对方不感兴趣的(),<br>&nbsp;&nbsp;\n屏蔽内容:this.获取对方感到厌恶的(),<br>&nbsp;&nbsp;&quot;,<br>&nbsp;&nbsp;&quot;是否跟随main.getFalseM()?&quot;:false,<br>&nbsp;&nbsp;&quot;屏蔽:%Love, Sex,*,…%#P087属性&quot;:true,<br>&nbsp;&nbsp;&quot;是否启用表情包&quot;:true,<br>&nbsp;&nbsp;&quot;是否倾诉&quot;:false,<br>&nbsp;&nbsp;&quot;是否分享&quot;:false,<br>&nbsp;&nbsp;&quot;是否主动交谈&quot;:false,<br>&nbsp;&nbsp;&quot;是否等待回应[主动]&quot;:true,<br>&nbsp;&nbsp;&quot;是否启用观察状态&quot;:true,<br>&nbsp;&nbsp;&quot;是否记忆交谈内容&quot;:true,<br>&nbsp;&nbsp;&quot;是否记忆名字,图像&quot;:true,<br>&nbsp;&nbsp;&quot;是否尝试猜测并记忆对方喜爱偏好内容&quot;:true,<br>&nbsp;&nbsp;&quot;是否在交谈时同时启用记忆&quot;:true,<br>&nbsp;&nbsp;&quot;是否在交谈时主动倾向于认为对方所感兴趣的&quot;:true,<br>&nbsp;&nbsp;&quot;是否启用独立的书写类型&quot;:true,<br>&nbsp;&nbsp;&quot;是否启用独立的语气类型&quot;:true,<br>&nbsp;&nbsp;&quot;是否启用独立的\&quot;自我\&quot;&quot;:true,<br>&nbsp;&nbsp;&quot;是否在停用后依旧保留数据&quot;:true,<br>&nbsp;&nbsp;&quot;是否跟随Main.getM()除自定义类型数据DE的&quot;:true,<br>&nbsp;&nbsp;&quot;是否尝试分配独立的记忆分区&quot;:true,<br>&nbsp;&nbsp;&quot;是否尝试构建独立的人格类型&quot;:true<br> },<br><br> &quot;是否保留情感数据&quot;:true,<br> &quot;是否保留上次数据&quot;:true,<br> &quot;是否清除可能导致错误的数据&quot;:true,<br> &quot;是否在销毁\&quot;人生\&quot;时通知&quot;:true,<br> &quot;长时间无交谈仍保留数据&quot;:true<br>}​​</code></pre></h6></h6></h4></body></html>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;&lt;meta name=&quot;generator&quot; content=&quot;Hexo 3.9.0&quot;&gt;
-&lt;title&gt;咲夜_Config&lt;/title&gt;
-&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>K/咲夜_Config</title>
-    <link href="https://kineks0-0.github.io/post/K/%E5%92%B2%E5%A4%9C_Config/"/>
-    <id>https://kineks0-0.github.io/post/K/咲夜_Config/</id>
-    <published>2019-08-15T19:16:59.944Z</published>
-    <updated>2019-08-15T19:16:59.944Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="已2019Y08M15D-16D完成停用并更新">已2019Y08M15D-16D完成停用并更新<a href="post/K/咲夜_Config#已2019Y08M15D-16D完成停用并更新"></a></h4><h6 id="已完成对usersConfig-json更新">已完成对usersConfig.json更新<a href="post/K/咲夜_Config#已完成对usersConfig-json更新"></a></h6><br>    ###### **以下是对 "咲夜" 的用户配置**<figure class="highlight plain"><div><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line"> &quot;userName&quot;:&quot;咲夜/宵夜&quot;,</span><br><span class="line"> &quot;usersID&quot;:&quot;20190112+this.getID+1&quot;,</span><br><span class="line"> &quot;Language&quot;:&quot;zh-CN&quot;,</span><br><span class="line"> &quot;情感关系[单向认为]&quot;:&quot;朋友&#123;类型:知心，百分比:85&#125;&quot;,</span><br><span class="line"> &quot;记忆配置[单向]&quot;:true,</span><br><span class="line"> &quot;是否异常&quot;:false,</span><br><span class="line"> &quot;经常交谈&quot;:false,</span><br><span class="line"> &quot;是否信任&quot;:true,</span><br><span class="line"> &quot;是否执行S0190815089676类型事件&quot;:false,</span><br><span class="line"></span><br><span class="line"> &quot;人格配置&quot;:</span><br><span class="line"> &#123;</span><br><span class="line">  &quot;独立配置数据#1&quot;:&quot;喜爱偏好:this.获取对方偏好内容的(),</span><br><span class="line">  \n屏蔽内容:this.获取对方不感兴趣的(),</span><br><span class="line">  \n屏蔽内容:this.获取对方感到厌恶的(),</span><br><span class="line">  &quot;,</span><br><span class="line">  &quot;是否跟随main.getFalseM()?&quot;:false,</span><br><span class="line">  &quot;屏蔽:%Love, Sex,*,…%#P087属性&quot;:true,</span><br><span class="line">  &quot;是否启用表情包&quot;:true,</span><br><span class="line">  &quot;是否倾诉&quot;:false,</span><br><span class="line">  &quot;是否分享&quot;:false,</span><br><span class="line">  &quot;是否主动交谈&quot;:false,</span><br><span class="line">  &quot;是否等待回应[主动]&quot;:true,</span><br><span class="line">  &quot;是否启用观察状态&quot;:true,</span><br><span class="line">  &quot;是否记忆交谈内容&quot;:true,</span><br><span class="line">  &quot;是否记忆名字,图像&quot;:true,</span><br><span class="line">  &quot;是否尝试猜测并记忆对方喜爱偏好内容&quot;:true,</span><br><span class="line">  &quot;是否在交谈时同时启用记忆&quot;:true,</span><br><span class="line">  &quot;是否在交谈时主动倾向于认为对方所感兴趣的&quot;:true,</span><br><span class="line">  &quot;是否启用独立的书写类型&quot;:true,</span><br><span class="line">  &quot;是否启用独立的语气类型&quot;:true,</span><br><span class="line">  &quot;是否启用独立的\&quot;自我\&quot;&quot;:true,</span><br><span class="line">  &quot;是否在停用后依旧保留数据&quot;:true,</span><br><span class="line">  &quot;是否跟随Main.getM()除自定义类型数据DE的&quot;:true,</span><br><span class="line">  &quot;是否尝试分配独立的记忆分区&quot;:true,</span><br><span class="line">  &quot;是否尝试构建独立的人格类型&quot;:true</span><br><span class="line"> &#125;,</span><br><span class="line"></span><br><span class="line"> &quot;是否保留情感数据&quot;:true,</span><br><span class="line"> &quot;是否保留上次数据&quot;:true,</span><br><span class="line"> &quot;是否清除可能导致错误的数据&quot;:true,</span><br><span class="line"> &quot;是否在销毁\&quot;人生\&quot;时通知&quot;:true,</span><br><span class="line"> &quot;长时间无交谈仍保留数据&quot;:true</span><br><span class="line">&#125;​​</span><br></pre></td></tr></table></div></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h4 id=&quot;已2019Y08M15D-16D完成停用并更新&quot;&gt;已2019Y08M15D-16D完成停用并更新&lt;a href=&quot;post/K/咲夜_Config#已2019Y08M15D-16D完成停用并更新&quot;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h6 id=&quot;已完成对usersConfig-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>K/2019-05-31_03:50_A.M.</title>
-    <link href="https://kineks0-0.github.io/post/K/2019-05-31_03:50_A.M./"/>
-    <id>https://kineks0-0.github.io/post/K/2019-05-31_03:50_A.M./</id>
-    <published>2019-07-15T23:27:59.426Z</published>
-    <updated>2019-07-15T23:27:59.426Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html><head><meta name="generator" content="Hexo 3.9.0"><title>2019-05-31_03:50_A.M.</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">body {    font-family: Helvetica, arial, freesans, clean, sans-serif;    font-size: 14px;    line-height: 1.6;    background-color: #fff;    color: #333;    padding: 20px;    max-width: 960px;    margin: 0 auto;}a {    background: transparent;}a:active,a:hover {    outline: 0;}b,strong {    font-weight: bold;}mark {    background: #ff0;    color: #000;    font-style: italic;    font-weight: bold;}sub,sup {    font-size: 75%;    line-height: 0;    position: relative;    vertical-align: baseline;}sup {    top: -0.5em;}sub {    bottom: -0.25em;}h1 {    font-size: 2em;    margin: 0.67em 0;}img {    border: 0;}hr {    -moz-box-sizing: content-box;    box-sizing: content-box;    height: 0;}pre {    overflow: auto;}code,kbd,pre,samp {    font-family: monospace, monospace;    font-size: 1em;}input {    color: inherit;    font: inherit;    margin: 0;}html input[disabled] {    cursor: default;}input {    line-height: normal;}input[type="checkbox"] {    box-sizing: border-box;    padding: 0;}table {    border-collapse: collapse;    border-spacing: 0;}td,th {    padding: 0;}.codehilitetable {    border: 0;    border-spacing: 0;}.codehilitetable tr {    border: 0;}.codehilitetable pre,.codehilitetable div.codehilite {    margin: 0;}.linenos,.code,.codehilitetable td {    border: 0;    padding: 0;}td:not(.linenos) .linenodiv {    padding: 0 !important;}.code {    width: 100%;}.linenos div pre,.linenodiv pre,.linenodiv {    border: 0;    -webkit-border-radius: 0;    -moz-border-radius: 0;    border-radius: 0;    -webkit-border-top-left-radius: 3px;    -webkit-border-bottom-left-radius: 3px;    -moz-border-radius-topleft: 3px;    -moz-border-radius-bottomleft: 3px;    border-top-left-radius: 3px;    border-bottom-left-radius: 3px;}.code div pre,.code div {    border: 0;    -webkit-border-radius: 0;    -moz-border-radius: 0;    border-radius: 0;    -webkit-border-top-right-radius: 3px;    -webkit-border-bottom-right-radius: 3px;    -moz-border-radius-topright: 3px;    -moz-border-radius-bottomright: 3px;    border-top-right-radius: 3px;    border-bottom-right-radius: 3px;}* {    -moz-box-sizing: border-box;    box-sizing: border-box;}input {    font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UISymbol";    line-height: 1.4;}a {    color: #4183c4;    text-decoration: none;}a:hover,a:focus,a:active {    text-decoration: underline;}hr {    height: 0;    margin: 15px 0;    overflow: hidden;    background: transparent;    border: 0;    border-bottom: 1px solid #ddd;}hr:before,hr:after {    display: table;    content: " ";}hr:after {    clear: both;}h1,h2,h3,h4,h5,h6 {    margin-top: 15px;    margin-bottom: 15px;    line-height: 1.1;}h1 {    font-size: 30px;}h2 {    font-size: 21px;}h3 {    font-size: 16px;}h4 {    font-size: 14px;}h5 {    font-size: 12px;}h6 {    font-size: 11px;}blockquote {    margin: 0;}ul,ol {    padding: 0;    margin-top: 0;    margin-bottom: 0;}ol ol,ul ol {    list-style-type: lower-roman;}ul ul ol,ul ol ol,ol ul ol,ol ol ol {    list-style-type: lower-alpha;}dd {    margin-left: 0;}code,pre,samp {    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;    font-size: 12px;}pre {    margin-top: 0;    margin-bottom: 0;}kbd {    background-color: #e7e7e7;    background-image: -moz-linear-gradient(#fefefe, #e7e7e7);    background-image: -webkit-linear-gradient(#fefefe, #e7e7e7);    background-image: linear-gradient(#fefefe, #e7e7e7);    background-repeat: repeat-x;    border-radius: 2px;    border: 1px solid #cfcfcf;    color: #000;    padding: 3px 5px;    line-height: 10px;    font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;    display: inline-block;}>*:first-child {    margin-top: 0 !important;}>*:last-child {    margin-bottom: 0 !important;}.headeranchor-link {    position: absolute;    top: 0;    bottom: 0;    left: 0;    display: block;    padding-right: 6px;    padding-left: 30px;    margin-left: -30px;}.headeranchor-link:focus {    outline: none;}h1,h2,h3,h4,h5,h6 {    position: relative;    margin-top: 0.2em;    margin-bottom: 16px;    font-weight: bold;    line-height: 1.4;}h1 .headeranchor,h2 .headeranchor,h3 .headeranchor,h4 .headeranchor,h5 .headeranchor,h6 .headeranchor {    display: none;    color: #000;    vertical-align: middle;}h1:hover .headeranchor-link,h2:hover .headeranchor-link,h3:hover .headeranchor-link,h4:hover .headeranchor-link,h5:hover .headeranchor-link,h6:hover .headeranchor-link {    height: 1em;    padding-left: 8px;    margin-left: -30px;    line-height: 1;    text-decoration: none;}h1:hover .headeranchor-link .headeranchor,h2:hover .headeranchor-link .headeranchor,h3:hover .headeranchor-link .headeranchor,h4:hover .headeranchor-link .headeranchor,h5:hover .headeranchor-link .headeranchor,h6:hover .headeranchor-link .headeranchor {    display: inline-block;}h1 {    padding-bottom: 0.3em;    font-size: 2.25em;    line-height: 1.2;    border-bottom: 1px solid #eee;}h2 {    padding-bottom: 0.3em;    font-size: 1.75em;    line-height: 1.225;    border-bottom: 1px solid #eee;}h3 {    font-size: 1.5em;    line-height: 1.43;}h4 {    font-size: 1.25em;}h5 {    font-size: 1em;}h6 {    font-size: 1em;    color: #777;}p,blockquote,ul,ol,dl,table,pre,.admonition {    margin-top: 0;    margin-bottom: 16px;}hr {    height: 4px;    padding: 0;    margin: 16px 0;    background-color: #e7e7e7;    border: 0 none;}ul,ol {    padding-left: 2em;}ul ul,ul ol,ol ol,ol ul {    margin-top: 0;    margin-bottom: 0;}li>p {    margin-top: 16px;}dl {    padding: 0;}dl dt {    padding: 0;    margin-top: 16px;    font-size: 1em;    font-style: italic;    font-weight: bold;}dl dd {    padding: 0 16px;    margin-bottom: 16px;}blockquote {    padding: 0 15px;    color: #777;    border-left: 4px solid #ddd;}blockquote>:first-child {    margin-top: 0;}blockquote>:last-child {    margin-bottom: 0;}table {    display: block;    width: 100%;    overflow: auto;    word-break: normal;    word-break: keep-all;}table th {    font-weight: bold;}table th,table td {    padding: 6px 13px;    border: 1px solid #ddd;}table tr {    background-color: #fff;    border-top: 1px solid #ccc;}table tr:nth-child(2n) {    background-color: #f8f8f8;}img {    max-width: 100%;    -moz-box-sizing: border-box;    box-sizing: border-box;}code,samp {    padding: 0;    padding-top: 0.2em;    padding-bottom: 0.2em;    margin: 0;    font-size: 85%;    background-color: rgba(0,0,0,0.04);    border-radius: 3px;}code:before,code:after {    letter-spacing: -0.2em;}pre[language]::before {    content: attr(language);    position: absolute;    top: 0;    right: 5px;    padding: 2px 1px;    text-transform: uppercase;    color: #666;    font-size: 8.5px;}pre:not([language]) {    padding: 6px 10px;}code {    padding: 5px 5px;    font-size: 90%;    color: #c7254e;    background-color: #f9f2f4;    white-space: pre-wrap;    border-radius: 4px;    font-family: Menlo,Monaco,Consolas,"Courier New",monospace;    word-wrap: break-word;}pre code {    padding: 0;    white-wrap: pre-wrap;    white-space: pre;    background-color: transparent;    border-radius: 0;    position: relative;    line-height: 1.45;}pre {    display: block;    padding: 14px 10px;    margin: 0 0 10px;    font-size: 13px;    line-height: 1.42857143;    color: #333;    background-color: #f6f8fa;    border: 0;    border-radius: 3px;    font-family: Menlo,Monaco,Consolas,"Courier New",monospace;    overflow: auto;    position: relative;}.task-list-item {list-style-type: none}.task-list-item label {font-weight: 400}.task-list-item.enabled label {cursor: pointer}.task-list-item+.task-list-item {margin-top: 3px}.task-list-item .handle {display: none}.task-list-item-checkbox {margin: 0 1em 0.25em -1.6em;vertical-align: middle}.hljs {    display: block;    overflow-x: auto;    color: #4d4d4c;    padding: 0.5em;}.hljs-type {    color: #f5871f;}.hljs-params {    color: #f5871f;}.hljs-string {    color: #718c00;}.hljs-number {    color: #f5871f;}.hljs-selector-id {    color: #c82829;}.hljs-selector-class {    color: #c82829;}.hljs-comment {    color: #8e908c;}.hljs-quote {    color: #8e908c;}.hljs-template-tag {    color: #880000;}.hljs-tag {    color: #c82829;}.hljs-name {    color: #c82829;}.hljs-deletion {    color: #c82829;}.hljs-title {    color: #4271ae;    font-weight: bold;}.hljs-section {    color: #4271ae;    font-weight: bold;}.hljs-regexp {    color: #c82829;}.hljs-symbol {    color: #718c00;}.hljs-variable {    color: #c82829;}.hljs-template-variable {    color: #c82829;}.hljs-link {    color: #f5871f;}.hljs-attribute {    color: #eab700;}.hljs-selector-attr {    color: #BC6060;}.hljs-selector-pseudo {    color: #BC6060;}.hljs-literal {    color: #f5871f;}.hljs-built_in {    color: #f5871f;}.hljs-builtin-name {    color: #f5871f;}.hljs-bullet {    color: #718c00;}.hljs-code {    color: #397300;}.hljs-addition {    color: #718c00;}.hljs-meta {    color: #f5871f;}.hljs-meta-string {    color: #4d99bf;}.hljs-keyword {    color: #8959a8;}.hljs-selector-tag {    color: #8959a8;}.hljs-emphasis {    font-style: italic;}.hljs-strong {    font-weight: bold;}</style><base href="file:///storage/emulated/0/Kineks0-0.MarkDown.md/"><script defer src="file:///android_asset/anchor.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight.js" type="text/javascript"></script><script defer src="file:///android_asset/highlight-init.js" type="text/javascript"></script></head><body><!-- From: M Note --><!-- Author: HJQ --><!-- email: 880634@qq.com --><h1 id="Hello World">Hello World<p>你好,世界.</p><p>Markdown笔记</p><p> '#'  加上 文本 用做标题  </p><p>例如  '''#一级标题'''  的效果是  </p><h1 id="一级标题">一级标题<p>还可以  '##二级标题'  </p><h2 id="二级标题">二级标题<h3 id="三级标题">三级标题<h4 id="四级标题">四级标题<h5 id="五级标题">五级标题<h6 id="六级标题">六级标题</h6></h5></h4></h3></h2></h1></h1></body></html>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;&lt;meta name=&quot;generator&quot; content=&quot;Hexo 3.9.0&quot;&gt;
-&lt;title&gt;2019-05-31_03:50_A.M.&lt;/title&gt;
-&lt;meta http-equiv=&quot;Content-Typ
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>K/2019-05-31_03:50_A.M.</title>
-    <link href="https://kineks0-0.github.io/post/K/2019-05-31_03:50_A.M./"/>
-    <id>https://kineks0-0.github.io/post/K/2019-05-31_03:50_A.M./</id>
-    <published>2019-07-15T23:27:56.406Z</published>
-    <updated>2019-07-15T23:27:56.406Z</updated>
-    
-    <content type="html"><![CDATA[<p>#Hello World<br>你好,世界.</p><p>Markdown笔记</p><p> ‘#’  加上 文本 用做标题<br>例如  ‘’’#一级标题’’’  的效果是<br>#一级标题<br>还可以  ‘##二级标题’<br>##二级标题<br>###三级标题<br>####四级标题<br>#####五级标题<br>######六级标题</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;#Hello World&lt;br&gt;你好,世界.&lt;/p&gt;
-&lt;p&gt;Markdown笔记&lt;/p&gt;
-&lt;p&gt; ‘#’  加上 文本 用做标题&lt;br&gt;例如  ‘’’#一级标题’’’  的效果是&lt;br&gt;#一级标题&lt;br&gt;还可以  ‘##二级标题’&lt;br&gt;##二级标题&lt;br&gt;###三级标题&lt;
-      
-    
-    </summary>
-    
     
   </entry>
   
