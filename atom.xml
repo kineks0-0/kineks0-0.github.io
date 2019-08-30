@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kineks0-0.github.io/"/>
-  <updated>2019-08-30T03:32:50.288Z</updated>
+  <updated>2019-08-30T03:58:42.273Z</updated>
   <id>https://kineks0-0.github.io/</id>
   
   <author>
@@ -17,43 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Welcome</title>
-    <link href="https://kineks0-0.github.io/post/Welcome/"/>
-    <id>https://kineks0-0.github.io/post/Welcome/</id>
-    <published>2019-08-30T03:32:50.288Z</published>
-    <updated>2019-08-30T03:32:50.288Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="欢迎">欢迎<a href="post/Welcome#欢迎"></a></h1><p>这是我的博客,不定时更新.<br><br>]</p><h1 id="封面来源">封面来源<a href="post/Welcome#封面来源"></a></h1><p>画师 : 酒一<br><br><br></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;欢迎&quot;&gt;欢迎&lt;a href=&quot;post/Welcome#欢迎&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;这是我的博客,不定时更新.&lt;br&gt;&lt;br&gt;]&lt;/p&gt;
-&lt;h1 id=&quot;封面来源&quot;&gt;封面来源&lt;a href=&quot;post/Welcome#封面来源&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;画师 
-      
-    
-    </summary>
-    
-    
-      <category term="杂" scheme="https://kineks0-0.github.io/tags/%E6%9D%82/"/>
-    
-      <category term="闲聊" scheme="https://kineks0-0.github.io/tags/%E9%97%B2%E8%81%8A/"/>
-    
-      <category term="欢迎" scheme="https://kineks0-0.github.io/tags/%E6%AC%A2%E8%BF%8E/"/>
-    
-      <category term="Welcome" scheme="https://kineks0-0.github.io/tags/Welcome/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Pronhub-v5.1-汉化版</title>
     <link href="https://kineks0-0.github.io/post/Pronhub%E6%B1%89%E5%8C%96%E7%89%88/"/>
     <id>https://kineks0-0.github.io/post/Pronhub汉化版/</id>
-    <published>2019-08-30T03:31:52.108Z</published>
-    <updated>2019-08-30T03:31:52.108Z</updated>
+    <published>2019-08-30T03:58:42.273Z</published>
+    <updated>2019-08-30T03:58:42.273Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="前言">前言<a href="post/Pronhub汉化版#前言"></a></h1><p>因为Pronhub一直没支持官方中文,<br><br>再加上找不到最新版的汉化版本.<br><br>于是就自己去动手汉化了.<br><br><br></p><h1 id="Pronhub-v5-1-1307-汉化版">Pronhub_v5.1_1307_汉化版<a href="post/Pronhub汉化版#Pronhub-v5-1-1307-汉化版"></a></h1><p>基于官网最新版汉化 [截止2019.7.1时]<br>下载链接 : <a href="https://www.lanzous.com/b791761" target="_blank" rel="noopener">传送门</a></p><p><del>[别问是怎么截的]</del><br><br></p><h1 id="App截图">App截图<a href="post/Pronhub汉化版#App截图"></a></h1><p><del>截图待会再重新上传</del></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="前言">前言<a href="post/Pronhub汉化版#前言"></a></h1><p>因为Pronhub一直没支持官方中文,<br><br>再加上找不到最新版的汉化版本.<br><br>于是就自己去动手汉化了.<br><br><br></p><h1 id="Pronhub-v5-1-1307-汉化版">Pronhub_v5.1_1307_汉化版<a href="post/Pronhub汉化版#Pronhub-v5-1-1307-汉化版"></a></h1><p>基于官网最新版汉化 [截止2019.7.1时]<br>下载链接 : <a href="https://www.lanzous.com/b791761" target="_blank" rel="noopener">传送门</a></p><p><del>[别问是怎么截的]</del><br><br><br><br></p><h1 id="App截图">App截图<a href="post/Pronhub汉化版#App截图"></a></h1><p><del>截图待会再重新上传</del></p>]]></content>
     
     <summary type="html">
     
@@ -73,6 +43,36 @@
       <category term="汉化" scheme="https://kineks0-0.github.io/tags/%E6%B1%89%E5%8C%96/"/>
     
       <category term="Pronhub" scheme="https://kineks0-0.github.io/tags/Pronhub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome</title>
+    <link href="https://kineks0-0.github.io/post/Welcome/"/>
+    <id>https://kineks0-0.github.io/post/Welcome/</id>
+    <published>2019-08-30T03:58:01.883Z</published>
+    <updated>2019-08-30T03:58:01.883Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎">欢迎<a href="post/Welcome#欢迎"></a></h1><p>这是我的博客,不定时更新.<br><br></p><h1 id="封面来源">封面来源<a href="post/Welcome#封面来源"></a></h1><p>画师 : 酒一<br><br><br></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎&quot;&gt;欢迎&lt;a href=&quot;post/Welcome#欢迎&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;这是我的博客,不定时更新.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1 id=&quot;封面来源&quot;&gt;封面来源&lt;a href=&quot;post/Welcome#封面来源&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;画师 :
+      
+    
+    </summary>
+    
+    
+      <category term="杂" scheme="https://kineks0-0.github.io/tags/%E6%9D%82/"/>
+    
+      <category term="闲聊" scheme="https://kineks0-0.github.io/tags/%E9%97%B2%E8%81%8A/"/>
+    
+      <category term="欢迎" scheme="https://kineks0-0.github.io/tags/%E6%AC%A2%E8%BF%8E/"/>
+    
+      <category term="Welcome" scheme="https://kineks0-0.github.io/tags/Welcome/"/>
     
   </entry>
   
