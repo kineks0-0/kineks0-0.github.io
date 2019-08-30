@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog</title>
+  
+  <subtitle>Blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://kineks0-0.github.io/"/>
+  <updated>2019-08-30T00:22:11.986Z</updated>
+  <id>https://kineks0-0.github.io/</id>
+  
+  <author>
+    <name>kineks0-0</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客叒叒叒换换回来了</title>
+    <link href="https://kineks0-0.github.io/post/%E5%8D%9A%E5%AE%A2%E5%8F%92%E5%8F%92%E5%8F%92%E6%8D%A2%E5%9B%9E%E6%9D%A5%E4%BA%86/"/>
+    <id>https://kineks0-0.github.io/post/博客叒叒叒换回来了/</id>
+    <published>2019-08-30T00:22:11.986Z</published>
+    <updated>2019-08-30T00:22:11.986Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="博客叒叒叒换换回来了">博客叒叒叒换换回来了<a href="post/博客叒叒叒换回来了#博客叒叒叒换换回来了"></a></h1><p>因为腾讯云莫名其妙的把主题文件和环境都删除了,<br>所以现在又用回 Android+Github 的组合了.</p><p>至于以前写的就随缘恢复回来吧,反正也不多.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;博客叒叒叒换换回来了&quot;&gt;博客叒叒叒换换回来了&lt;a href=&quot;post/博客叒叒叒换回来了#博客叒叒叒换换回来了&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;因为腾讯云莫名其妙的把主题文件和环境都删除了,&lt;br&gt;所以现在又用回 Android+Github 的组合了.&lt;/p&gt;
+&lt;p
+      
+    
+    </summary>
+    
+    
+      <category term="杂" scheme="https://kineks0-0.github.io/tags/%E6%9D%82/"/>
+    
+      <category term="闲聊" scheme="https://kineks0-0.github.io/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://kineks0-0.github.io/post/Hello-World/"/>
+    <id>https://kineks0-0.github.io/post/Hello-World/</id>
+    <published>2019-08-29T23:03:23.633Z</published>
+    <updated>2019-08-29T23:03:23.633Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hello-World">Hello World<a href="post/Hello-World#Hello-World"></a></h1><p>Hello World,Hexo.</p><figure class="highlight plain"><div><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">System.out.println(&quot;Hello WWorld&quot;);//java</span><br></pre></td></tr></table></div></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Hello-World&quot;&gt;Hello World&lt;a href=&quot;post/Hello-World#Hello-World&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;Hello World,Hexo.&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;di
+      
+    
+    </summary>
+    
+    
+      <category term="Hello World" scheme="https://kineks0-0.github.io/tags/Hello-World/"/>
+    
+      <category term="Test Tag" scheme="https://kineks0-0.github.io/tags/Test-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://kineks0-0.github.io/post/hello-world/"/>
+    <id>https://kineks0-0.github.io/post/hello-world/</id>
+    <published>2019-08-29T19:44:40.503Z</published>
+    <updated>2019-08-29T19:44:40.503Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start">Quick Start<a href="post/hello-world#Quick-Start"></a></h2><h3 id="Create-a-new-post">Create a new post<a href="post/hello-world#Create-a-new-post"></a></h3><figure class="highlight bash"><div><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></div></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server">Run server<a href="post/hello-world#Run-server"></a></h3><figure class="highlight bash"><div><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></div></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files">Generate static files<a href="post/hello-world#Generate-static-files"></a></h3><figure class="highlight bash"><div><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></div></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites<a href="post/hello-world#Deploy-to-remote-sites"></a></h3><figure class="highlight bash"><div><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></div></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
