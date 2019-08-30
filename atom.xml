@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kineks0-0.github.io/"/>
-  <updated>2019-08-30T00:22:11.986Z</updated>
+  <updated>2019-08-30T01:21:54.059Z</updated>
   <id>https://kineks0-0.github.io/</id>
   
   <author>
@@ -17,37 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>博客叒叒叒换换回来了</title>
-    <link href="https://kineks0-0.github.io/post/%E5%8D%9A%E5%AE%A2%E5%8F%92%E5%8F%92%E5%8F%92%E6%8D%A2%E5%9B%9E%E6%9D%A5%E4%BA%86/"/>
-    <id>https://kineks0-0.github.io/post/博客叒叒叒换回来了/</id>
-    <published>2019-08-30T00:22:11.986Z</published>
-    <updated>2019-08-30T00:22:11.986Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="博客叒叒叒换换回来了">博客叒叒叒换换回来了<a href="post/博客叒叒叒换回来了#博客叒叒叒换换回来了"></a></h1><p>因为腾讯云莫名其妙的把主题文件和环境都删除了,<br>所以现在又用回 Android+Github 的组合了.</p><p>至于以前写的就随缘恢复回来吧,反正也不多.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;博客叒叒叒换换回来了&quot;&gt;博客叒叒叒换换回来了&lt;a href=&quot;post/博客叒叒叒换回来了#博客叒叒叒换换回来了&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;因为腾讯云莫名其妙的把主题文件和环境都删除了,&lt;br&gt;所以现在又用回 Android+Github 的组合了.&lt;/p&gt;
-&lt;p
-      
-    
-    </summary>
-    
-    
-      <category term="杂" scheme="https://kineks0-0.github.io/tags/%E6%9D%82/"/>
-    
-      <category term="闲聊" scheme="https://kineks0-0.github.io/tags/%E9%97%B2%E8%81%8A/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://kineks0-0.github.io/post/Hello-World/"/>
     <id>https://kineks0-0.github.io/post/Hello-World/</id>
-    <published>2019-08-29T23:03:23.633Z</published>
-    <updated>2019-08-29T23:03:23.633Z</updated>
+    <published>2019-08-30T01:21:54.059Z</published>
+    <updated>2019-08-30T01:21:54.059Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hello-World">Hello World<a href="post/Hello-World#Hello-World"></a></h1><p>Hello World,Hexo.</p><figure class="highlight plain"><div><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">System.out.println(&quot;Hello WWorld&quot;);//java</span><br></pre></td></tr></table></div></figure>]]></content>
     
@@ -65,6 +39,63 @@
       <category term="Hello World" scheme="https://kineks0-0.github.io/tags/Hello-World/"/>
     
       <category term="Test Tag" scheme="https://kineks0-0.github.io/tags/Test-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome</title>
+    <link href="https://kineks0-0.github.io/post/Welcome/"/>
+    <id>https://kineks0-0.github.io/post/Welcome/</id>
+    <published>2019-08-30T01:21:28.859Z</published>
+    <updated>2019-08-30T01:21:28.859Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎">欢迎<a href="post/Welcome#欢迎"></a></h1><p>这是我的博客,不定时更新.</p><h1 id="封面来源">封面来源<a href="post/Welcome#封面来源"></a></h1><p>画师 : 酒一</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎&quot;&gt;欢迎&lt;a href=&quot;post/Welcome#欢迎&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;这是我的博客,不定时更新.&lt;/p&gt;
+&lt;h1 id=&quot;封面来源&quot;&gt;封面来源&lt;a href=&quot;post/Welcome#封面来源&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;画师 : 酒一&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="杂" scheme="https://kineks0-0.github.io/tags/%E6%9D%82/"/>
+    
+      <category term="闲聊" scheme="https://kineks0-0.github.io/tags/%E9%97%B2%E8%81%8A/"/>
+    
+      <category term="欢迎" scheme="https://kineks0-0.github.io/tags/%E6%AC%A2%E8%BF%8E/"/>
+    
+      <category term="Welcome" scheme="https://kineks0-0.github.io/tags/Welcome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客叒叒叒换换回来了</title>
+    <link href="https://kineks0-0.github.io/post/%E5%8D%9A%E5%AE%A2%E5%8F%92%E5%8F%92%E5%8F%92%E6%8D%A2%E5%9B%9E%E6%9D%A5%E4%BA%86/"/>
+    <id>https://kineks0-0.github.io/post/博客叒叒叒换回来了/</id>
+    <published>2019-08-30T01:20:53.359Z</published>
+    <updated>2019-08-30T01:20:53.359Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="博客叒叒叒换换回来了">博客叒叒叒换换回来了<a href="post/博客叒叒叒换回来了#博客叒叒叒换换回来了"></a></h1><p>因为腾讯云莫名其妙的把主题文件和环境都删除了,<br>所以现在又用回 Android+Github 的组合了.</p><p>至于以前写的就随缘恢复回来吧,反正也不多.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;博客叒叒叒换换回来了&quot;&gt;博客叒叒叒换换回来了&lt;a href=&quot;post/博客叒叒叒换回来了#博客叒叒叒换换回来了&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;因为腾讯云莫名其妙的把主题文件和环境都删除了,&lt;br&gt;所以现在又用回 Android+Github 的组合了.&lt;/p&gt;
+&lt;p
+      
+    
+    </summary>
+    
+    
+      <category term="杂" scheme="https://kineks0-0.github.io/tags/%E6%9D%82/"/>
+    
+      <category term="闲聊" scheme="https://kineks0-0.github.io/tags/%E9%97%B2%E8%81%8A/"/>
     
   </entry>
   
