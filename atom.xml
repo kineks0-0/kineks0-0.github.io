@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kineks0-0.github.io/"/>
-  <updated>2019-08-30T03:58:42.273Z</updated>
+  <updated>2019-09-01T22:49:23.353Z</updated>
   <id>https://kineks0-0.github.io/</id>
   
   <author>
@@ -17,41 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Pronhub-v5.1-汉化版</title>
-    <link href="https://kineks0-0.github.io/post/Pronhub%E6%B1%89%E5%8C%96%E7%89%88/"/>
-    <id>https://kineks0-0.github.io/post/Pronhub汉化版/</id>
-    <published>2019-08-30T03:58:42.273Z</published>
-    <updated>2019-08-30T03:58:42.273Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="前言">前言<a href="post/Pronhub汉化版#前言"></a></h1><p>因为Pronhub一直没支持官方中文,<br><br>再加上找不到最新版的汉化版本.<br><br>于是就自己去动手汉化了.<br><br><br></p><h1 id="Pronhub-v5-1-1307-汉化版">Pronhub_v5.1_1307_汉化版<a href="post/Pronhub汉化版#Pronhub-v5-1-1307-汉化版"></a></h1><p>基于官网最新版汉化 [截止2019.7.1时]<br>下载链接 : <a href="https://www.lanzous.com/b791761" target="_blank" rel="noopener">传送门</a></p><p><del>[别问是怎么截的]</del><br><br><br><br></p><h1 id="App截图">App截图<a href="post/Pronhub汉化版#App截图"></a></h1><p><del>截图待会再重新上传</del></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;前言&quot;&gt;前言&lt;a href=&quot;post/Pronhub汉化版#前言&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;因为Pronhub一直没支持官方中文,&lt;br&gt;&lt;br&gt;再加上找不到最新版的汉化版本.&lt;br&gt;&lt;br&gt;于是就自己去动手汉化了.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h1 id
-      
-    
-    </summary>
-    
-    
-      <category term="杂" scheme="https://kineks0-0.github.io/tags/%E6%9D%82/"/>
-    
-      <category term="闲聊" scheme="https://kineks0-0.github.io/tags/%E9%97%B2%E8%81%8A/"/>
-    
-      <category term="汉化" scheme="https://kineks0-0.github.io/tags/%E6%B1%89%E5%8C%96/"/>
-    
-      <category term="Pronhub" scheme="https://kineks0-0.github.io/tags/Pronhub/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Welcome</title>
     <link href="https://kineks0-0.github.io/post/Welcome/"/>
     <id>https://kineks0-0.github.io/post/Welcome/</id>
-    <published>2019-08-30T03:58:01.883Z</published>
-    <updated>2019-08-30T03:58:01.883Z</updated>
+    <published>2019-09-01T22:49:23.353Z</published>
+    <updated>2019-09-01T22:49:23.353Z</updated>
     
     <content type="html"><![CDATA[<h1 id="欢迎">欢迎<a href="post/Welcome#欢迎"></a></h1><p>这是我的博客,不定时更新.<br><br></p><h1 id="封面来源">封面来源<a href="post/Welcome#封面来源"></a></h1><p>画师 : 酒一<br><br><br></p>]]></content>
     
@@ -80,7 +50,7 @@
     <title>Hello World</title>
     <link href="https://kineks0-0.github.io/post/Hello-World/"/>
     <id>https://kineks0-0.github.io/post/Hello-World/</id>
-    <published>2019-08-30T03:00:59.911Z</published>
+    <published>2019-09-01T19:26:10.440Z</published>
     <updated>2019-08-30T01:21:54.059Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hello-World">Hello World<a href="post/Hello-World#Hello-World"></a></h1><p>Hello World,Hexo.</p><figure class="highlight plain"><div><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">System.out.println(&quot;Hello WWorld&quot;);//java</span><br></pre></td></tr></table></div></figure>]]></content>
@@ -103,10 +73,40 @@
   </entry>
   
   <entry>
+    <title>Pronhub-v5.1-汉化版</title>
+    <link href="https://kineks0-0.github.io/post/Pronhub%E6%B1%89%E5%8C%96%E7%89%88/"/>
+    <id>https://kineks0-0.github.io/post/Pronhub汉化版/</id>
+    <published>2019-09-01T19:26:10.440Z</published>
+    <updated>2019-08-30T03:58:42.273Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言">前言<a href="post/Pronhub汉化版#前言"></a></h1><p>因为Pronhub一直没支持官方中文,<br><br>再加上找不到最新版的汉化版本.<br><br>于是就自己去动手汉化了.<br><br><br></p><h1 id="Pronhub-v5-1-1307-汉化版">Pronhub_v5.1_1307_汉化版<a href="post/Pronhub汉化版#Pronhub-v5-1-1307-汉化版"></a></h1><p>基于官网最新版汉化 [截止2019.7.1时]<br>下载链接 : <a href="https://www.lanzous.com/b791761" target="_blank" rel="noopener">传送门</a></p><p><del>[别问是怎么截的]</del><br><br><br><br></p><h1 id="App截图">App截图<a href="post/Pronhub汉化版#App截图"></a></h1><p><del>截图待会再重新上传</del></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;前言&quot;&gt;前言&lt;a href=&quot;post/Pronhub汉化版#前言&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;因为Pronhub一直没支持官方中文,&lt;br&gt;&lt;br&gt;再加上找不到最新版的汉化版本.&lt;br&gt;&lt;br&gt;于是就自己去动手汉化了.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1 id
+      
+    
+    </summary>
+    
+    
+      <category term="杂" scheme="https://kineks0-0.github.io/tags/%E6%9D%82/"/>
+    
+      <category term="闲聊" scheme="https://kineks0-0.github.io/tags/%E9%97%B2%E8%81%8A/"/>
+    
+      <category term="汉化" scheme="https://kineks0-0.github.io/tags/%E6%B1%89%E5%8C%96/"/>
+    
+      <category term="Pronhub" scheme="https://kineks0-0.github.io/tags/Pronhub/"/>
+    
+  </entry>
+  
+  <entry>
     <title>博客叒叒叒换回来了</title>
     <link href="https://kineks0-0.github.io/post/%E5%8D%9A%E5%AE%A2%E5%8F%92%E5%8F%92%E5%8F%92%E6%8D%A2%E5%9B%9E%E6%9D%A5%E4%BA%86/"/>
     <id>https://kineks0-0.github.io/post/博客叒叒叒换回来了/</id>
-    <published>2019-08-30T03:00:59.911Z</published>
+    <published>2019-09-01T19:26:10.430Z</published>
     <updated>2019-08-30T02:17:04.141Z</updated>
     
     <content type="html"><![CDATA[<h1 id="博客叒叒叒换回来了">博客叒叒叒换回来了<a href="post/博客叒叒叒换回来了#博客叒叒叒换回来了"></a></h1><p>因为腾讯云莫名其妙的把主题文件和环境都删除了,<br>所以现在又用回 Android+Github 的组合了.</p><p>至于以前写的就随缘恢复回来吧,反正也不多.</p>]]></content>
